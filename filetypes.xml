@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping ext="ntl" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="dav" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>

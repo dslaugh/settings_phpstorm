@@ -1,0 +1,28 @@
+<application>
+  <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>!*.js</mask>
+    <mask>!*log*.php</mask>
+    <mask>!jquery.qtip*</mask>
+    <mask>!*jquery*</mask>
+    <mask>!*.css</mask>
+    <mask>!*.sql</mask>
+    <mask>!*.md</mask>
+    <mask>!*log*</mask>
+    <mask>!*node_modules*</mask>
+  </component>
+</application>

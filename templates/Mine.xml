@@ -1,0 +1,17 @@
+<templateSet group="Mine">
+  <template name="pp" value="echo '&lt;pre&gt;'; print_r($END$); echo '&lt;/pre&gt;'; die();" description="print to the screen" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="pv" value="echo '&lt;pre&gt;'; var_dump($END$); echo '&lt;/pre&gt;'; die();" description="print to screen with var_dump" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="lm" value="log_message('error', 'DAVE $END$');" description="log_message" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
