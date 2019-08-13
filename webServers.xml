@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f6c17616-4e89-4065-af0e-b81548b67c1e" name="sentinel-php7" url="http://dslaugh-php7.sentryds.com">
+        <fileTransfer host="dev-sentinel-php7.mic.sentryds.com" port="22" privateKey="C:\Users\David\.ssh\id_rsa" rootFolder="/home/dslaugh" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
