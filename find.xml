@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*node_modules*" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -25,5 +25,6 @@
     <mask>!*.md</mask>
     <mask>!*log*</mask>
     <mask>!*node_modules*</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
