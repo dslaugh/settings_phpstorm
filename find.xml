@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +17,6 @@
     <mask>!jquery.qtip*</mask>
     <mask>!*jquery*</mask>
     <mask>!*.css</mask>
-    <mask>!*.sql</mask>
     <mask>!*.md</mask>
     <mask>!*log*</mask>
     <mask>!*node_modules*</mask>
@@ -26,5 +26,6 @@
     <mask>!*Test.php</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>!*.sql</mask>
   </component>
 </application>
