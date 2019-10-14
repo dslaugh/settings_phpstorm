@@ -28,5 +28,6 @@
     <mask>!*Test.php</mask>
     <mask>*.xml*</mask>
     <mask>*Test.php</mask>
+    <mask>!*.xml*</mask>
   </component>
 </application>
