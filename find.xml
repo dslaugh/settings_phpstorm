@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*trait.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -29,5 +30,6 @@
     <mask>*.xml*</mask>
     <mask>*Test.php</mask>
     <mask>!*.xml*</mask>
+    <mask>*trait.php</mask>
   </component>
 </application>
