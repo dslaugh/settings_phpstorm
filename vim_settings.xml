@@ -132,8 +132,8 @@
         <mark key="^" line="36" column="46" />
         <mark key="." line="36" column="38" />
       </file>
-      <file name="C:/github_repos/chess_visualizer/package-lock.json" timestamp="1586528850703">
-        <mark key="'" line="6706" column="60" />
+      <file name="C:/github_repos/chess_visualizer/package-lock.json" timestamp="1586529510191">
+        <mark key="'" line="11292" column="9" />
       </file>
       <file name="C:/github_repos/sandbox/TypeScript/decorators/decorators3.ts" timestamp="1585770968804">
         <mark key="[" line="0" column="19" />
@@ -164,6 +164,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="C:/github_repos/chess_visualizer/package.json" timestamp="1586529275706">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+      </file>
       <file name="C:/github_repos/sandbox/TypeScript/decorators/log.js" timestamp="1585862137299">
         <mark key="'" line="40" column="27" />
       </file>
@@ -188,19 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="9" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="130" column="4" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="44" column="9" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="91" column="2" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="96" column="4" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="45" column="0" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="160" column="4" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="140" column="0" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="28" column="17" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="215" column="2" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="219" column="16" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="0" column="9" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
-      <jump line="105" column="24" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
       <jump line="221" column="2" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
       <jump line="52" column="4" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
       <jump line="78" column="0" filename="C:/github_repos/sandbox/react/build_your_own/src/index.js" />
@@ -288,6 +280,19 @@
       <jump line="6701" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="6704" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="6706" column="60" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="6752" column="12" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="7755" column="5" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="7757" column="56" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8116" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8156" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8164" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8166" column="60" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8389" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8396" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8398" column="60" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="8642" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="11288" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
+      <jump line="11292" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
