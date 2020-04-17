@@ -85,6 +85,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/app.module.ts" timestamp="1587079944592">
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="43" />
+        <mark key="^" line="57" column="43" />
+        <mark key="." line="57" column="42" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.ts" timestamp="1587081721401">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="62" column="33" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="62" column="32" />
+      </file>
       <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.js" timestamp="1585858544923">
         <mark key="[" line="26" column="51" />
         <mark key="]" line="27" column="19" />
@@ -96,60 +108,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/github_repos/sandbox/TypeScript/generics/students.ts" timestamp="1585857751288">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="9" column="47" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/github_repos/sandbox/TypeScript/generics/students.js" timestamp="1585857102475">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.ts" timestamp="1587080129558">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="31" />
-      </file>
-      <file name="C:/github_repos/sandbox/TypeScript/generics/getBy0.ts" timestamp="1585857564067">
-        <mark key="'" line="0" column="26" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="2" column="0" />
-      </file>
-      <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.ts" timestamp="1585859977622">
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="34" />
-        <mark key="^" line="35" column="34" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.html" timestamp="1587079373254">
-        <mark key="[" line="26" column="39" />
-        <mark key="]" line="26" column="44" />
-        <mark key="^" line="26" column="44" />
-        <mark key="." line="26" column="43" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/app.module.ts" timestamp="1587079944592">
-        <mark key="[" line="57" column="42" />
-        <mark key="]" line="57" column="43" />
-        <mark key="^" line="57" column="43" />
-        <mark key="." line="57" column="42" />
-      </file>
       <file name="C:/github_repos/sandbox/TypeScript/generics/teachers.ts" timestamp="1585857896485">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="1" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="C:/github_repos/sandbox/TypeScript/decorators/decorators6.ts" timestamp="1585849742001">
-        <mark key="[" line="41" column="58" />
-        <mark key="]" line="41" column="71" />
-        <mark key="^" line="41" column="71" />
-        <mark key="." line="41" column="71" />
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.ts" timestamp="1587081833376">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/index.ts" timestamp="1587079764027">
         <mark key="[" line="3" column="43" />
@@ -164,20 +133,32 @@
         <mark key="." line="0" column="76" />
         <mark key="^" line="0" column="76" />
       </file>
-      <file name="C:/github_repos/sandbox/TypeScript/decorators/decorators2.ts" timestamp="1585848752179">
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="36" column="38" />
-        <mark key="^" line="36" column="46" />
-        <mark key="." line="36" column="38" />
-      </file>
       <file name="C:/github_repos/chess_visualizer/package-lock.json" timestamp="1586530514148">
         <mark key="'" line="2604" column="60" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/shared/event.service.ts" timestamp="1587081375263">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
+      </file>
+      <file name="C:/github_repos/sandbox/TypeScript/generics/students.ts" timestamp="1585857751288">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/github_repos/chess_visualizer/src/components/Game.js" timestamp="1586544925359">
         <mark key="[" line="277" column="38" />
         <mark key="]" line="282" column="76" />
         <mark key="^" line="282" column="76" />
         <mark key="." line="282" column="75" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.ts" timestamp="1587080129558">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="32" />
+        <mark key="^" line="8" column="32" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="C:/github_repos/chess_visualizer/package.json" timestamp="1586529275706">
         <mark key="[" line="6" column="23" />
@@ -187,11 +168,36 @@
       <file name="C:/github_repos/sandbox/TypeScript/decorators/log.js" timestamp="1585862137299">
         <mark key="'" line="40" column="27" />
       </file>
+      <file name="C:/github_repos/sandbox/TypeScript/generics/getBy0.ts" timestamp="1585857564067">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="2" column="0" />
+      </file>
+      <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.ts" timestamp="1585859977622">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.html" timestamp="1587081790869">
+        <mark key="[" line="37" column="75" />
+        <mark key="]" line="37" column="114" />
+        <mark key="^" line="37" column="114" />
+        <mark key="." line="37" column="113" />
+      </file>
       <file name="C:/github_repos/sandbox/TypeScript/generics/getBy5.ts" timestamp="1585858066339">
         <mark key="[" line="20" column="69" />
         <mark key="]" line="21" column="46" />
         <mark key="^" line="21" column="46" />
         <mark key="." line="21" column="46" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.html" timestamp="1587081682111">
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="43" />
+        <mark key="^" line="44" column="43" />
+        <mark key="." line="44" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -300,10 +306,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cgk8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIC5lcnJvciA6bXMtaW5wdXQtcGxhY2Vob2xkZXIgeyBjb2xvcjogIzk5OTsgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>kind-of</text>
@@ -312,28 +318,28 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYCR7cHJvcGVydHlLZXl9IGNhbGxlZCB3aXRoIGFyZ3VtZW50czogJHt4fWApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cgk8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgIC5lcnJvciA6bXMtaW5wdXQtcGxhY2Vob2xkZXIgeyBjb2xvcjogIzk5OTsgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlc3Npb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCI+Cgk8dGl0bGU+VGl0bGU8L3RpdGxlPgo8L2hlYWQ+Cjxib2R5PgoKPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHggPSBhcmdzLmpvaW4oJywnKTsKICAgIGNvbnNvbGUubG9nKGAke3Byb3BlcnR5S2V5fSBjYWxsZWQgd2l0aCBhcmd1bWVudHM6ICR7eH1gKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAbG9nCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHggPSBhcmdzLmpvaW4oJywnKTsKICAgIGNvbnNvbGUubG9nKGAke3Byb3BlcnR5S2V5fSBjYWxsZWQgd2l0aCBhcmd1bWVudHM6ICR7eH1gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coRGF2ZS5uYW1lKTsK</text>
+        <text encoding="base64">ICBAbG9nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RGF2ZS5uYW1lID0gJ0RhdmlkJzsK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Y29uc29sZS5sb2coRGF2ZS5uYW1lKTsK</text>
