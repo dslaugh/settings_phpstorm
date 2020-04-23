@@ -167,6 +167,12 @@
       <file name="C:/github_repos/sandbox/TypeScript/decorators/log.js" timestamp="1585862137299">
         <mark key="'" line="40" column="27" />
       </file>
+      <file name="C:/playground/pluralsight_bootstrap/0208-start/0208-padding-display-and-margins.html" timestamp="1587657731162">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="70" />
+        <mark key="^" line="24" column="70" />
+        <mark key="." line="24" column="70" />
+      </file>
       <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.ts" timestamp="1585859977622">
         <mark key="[" line="35" column="21" />
         <mark key="]" line="35" column="34" />
@@ -178,12 +184,6 @@
         <mark key="]" line="48" column="114" />
         <mark key="^" line="48" column="114" />
         <mark key="." line="48" column="113" />
-      </file>
-      <file name="C:/github_repos/sandbox/TypeScript/generics/getBy5.ts" timestamp="1585858066339">
-        <mark key="[" line="20" column="69" />
-        <mark key="]" line="21" column="46" />
-        <mark key="^" line="21" column="46" />
-        <mark key="." line="21" column="46" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.html" timestamp="1587081682111">
         <mark key="[" line="44" column="25" />
