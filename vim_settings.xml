@@ -85,6 +85,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/playground/pluralsight_bootstrap/0205-start/0205-media-breakpoints.html" timestamp="1587655509651">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="16" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.html" timestamp="1587079722899">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.ts" timestamp="1587081833376">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+        <mark key="." line="36" column="24" />
+      </file>
+      <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="50" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.ts" timestamp="1587080129558">
+        <mark key="[" line="0" column="32" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+      </file>
+      <file name="C:/playground/pluralsight_bootstrap/0208-start/0208-padding-display-and-margins.html" timestamp="1587657731162">
+        <mark key="[" line="24" column="69" />
+        <mark key="]" line="24" column="70" />
+        <mark key="^" line="24" column="70" />
+        <mark key="." line="24" column="70" />
+      </file>
+      <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.ts" timestamp="1585859977622">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.html" timestamp="1587081790869">
+        <mark key="[" line="48" column="75" />
+        <mark key="]" line="48" column="114" />
+        <mark key="^" line="48" column="114" />
+        <mark key="." line="48" column="113" />
+      </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/app.module.ts" timestamp="1587079944592">
         <mark key="[" line="81" column="42" />
         <mark key="]" line="81" column="43" />
@@ -97,28 +144,8 @@
         <mark key="^" line="62" column="33" />
         <mark key="." line="62" column="32" />
       </file>
-      <file name="C:/playground/pluralsight_bootstrap/0205-start/0205-media-breakpoints.html" timestamp="1587655509651">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-        <mark key="." line="16" column="16" />
-      </file>
-      <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.js" timestamp="1585858544923">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="27" column="19" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.html" timestamp="1587079722899">
+      <file name="/Dummy.txt" timestamp="1587670310470">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.ts" timestamp="1587081833376">
-        <mark key="[" line="33" column="3" />
-        <mark key="]" line="36" column="25" />
-        <mark key="^" line="36" column="25" />
-        <mark key="." line="36" column="24" />
       </file>
       <file name="C:/playground/pluralsight_bootstrap/0206-start/0206-grid-system.html" timestamp="1587656691439">
         <mark key="[" line="33" column="24" />
@@ -141,23 +168,11 @@
       <file name="C:/github_repos/chess_visualizer/package-lock.json" timestamp="1586530514148">
         <mark key="'" line="2604" column="60" />
       </file>
-      <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
-        <mark key="[" line="17" column="44" />
-        <mark key="]" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-        <mark key="^" line="17" column="50" />
-      </file>
       <file name="C:/github_repos/chess_visualizer/src/components/Game.js" timestamp="1586544925359">
         <mark key="[" line="277" column="38" />
         <mark key="]" line="282" column="76" />
         <mark key="^" line="282" column="76" />
         <mark key="." line="282" column="75" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.ts" timestamp="1587080129558">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="31" />
       </file>
       <file name="C:/github_repos/chess_visualizer/package.json" timestamp="1586529275706">
         <mark key="[" line="6" column="23" />
@@ -166,24 +181,6 @@
       </file>
       <file name="C:/github_repos/sandbox/TypeScript/decorators/log.js" timestamp="1585862137299">
         <mark key="'" line="40" column="27" />
-      </file>
-      <file name="C:/playground/pluralsight_bootstrap/0208-start/0208-padding-display-and-margins.html" timestamp="1587657731162">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="70" />
-        <mark key="^" line="24" column="70" />
-        <mark key="." line="24" column="70" />
-      </file>
-      <file name="C:/github_repos/sandbox/TypeScript/oo_classes/user.ts" timestamp="1585859977622">
-        <mark key="[" line="35" column="21" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="35" column="34" />
-        <mark key="^" line="35" column="34" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.html" timestamp="1587081790869">
-        <mark key="[" line="48" column="75" />
-        <mark key="]" line="48" column="114" />
-        <mark key="^" line="48" column="114" />
-        <mark key="." line="48" column="113" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.html" timestamp="1587081682111">
         <mark key="[" line="44" column="25" />
