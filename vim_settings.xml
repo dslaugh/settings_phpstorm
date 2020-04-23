@@ -114,23 +114,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/github_repos/sandbox/TypeScript/generics/teachers.ts" timestamp="1585857896485">
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="1" />
-        <mark key="^" line="8" column="1" />
-        <mark key="." line="8" column="1" />
-      </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.ts" timestamp="1587081833376">
         <mark key="[" line="33" column="3" />
         <mark key="]" line="36" column="25" />
         <mark key="^" line="36" column="25" />
         <mark key="." line="36" column="24" />
       </file>
-      <file name="C:/playground/pluralsight_bootstrap/0206-start/0206-grid-system.html" timestamp="1587656505767">
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="56" />
-        <mark key="." line="21" column="55" />
-        <mark key="^" line="21" column="56" />
+      <file name="C:/playground/pluralsight_bootstrap/0206-start/0206-grid-system.html" timestamp="1587656691439">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/index.ts" timestamp="1587079764027">
         <mark key="]" line="0" column="41" />
@@ -146,6 +140,12 @@
       </file>
       <file name="C:/github_repos/chess_visualizer/package-lock.json" timestamp="1586530514148">
         <mark key="'" line="2604" column="60" />
+      </file>
+      <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="C:/github_repos/chess_visualizer/src/components/Game.js" timestamp="1586544925359">
         <mark key="[" line="277" column="38" />
@@ -297,44 +297,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBiZy1zZWNvbmRhcnkiPjI8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9mZnNldC1tZC0x</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IG9mZnNldC1tZC0x</text>
       </register>
       <register name="/" type="4">
         <text>kind-of</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtNiBiZy1zZWNvbmRhcnkiPjI8L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text>4</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNiBjb2wtbWQtNyBjb2wtbGctOCBjb2wteGwtMTAgYmctd2FybmluZyI+CiAgICAgICAgICA8cD5TTTogNTc2cHg8YnI+TUQ6IDc4NnB4PGJyPkxHOiA5OTJweDxicj5YTDogMTIwMHB4PC9wPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIGJnLXN1Y2Nlc3MgYWxpZ24tc2VsZi1lbmQiPkNvbHVtbiAzPC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctaW5mbyI+U2Vjb25kPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCBiZy1zdWNjZXNzIj5UaGlyZDwvZGl2PgogICAgICAgICAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNiBjb2wtbWQtNyBjb2wtbGctOCBjb2wteGwtMTAgYmctd2FybmluZyI+CiAgICAgICAgICA8cD5TTTogNTc2cHg8YnI+TUQ6IDc4NnB4PGJyPkxHOiA5OTJweDxicj5YTDogMTIwMHB4PC9wPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctd2FybmluZyI+Rmlyc3QKICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctaW5mbyI+U2Vjb25kPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCBiZy1zdWNjZXNzIj5UaGlyZDwvZGl2PgogICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctaW5mbyI+U2Vjb25kPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCBiZy1zdWNjZXNzIj5UaGlyZDwvZGl2PgogICAgICAgICAgPC9zZWN0aW9uPgo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctd2FybmluZyI+Rmlyc3QKICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctaW5mbyI+U2Vjb25kPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCBiZy1zdWNjZXNzIj5UaGlyZDwvZGl2PgogICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJyb3ciPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wgYmctaW5mbyI+U2Vjb25kPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbCBiZy1zdWNjZXNzIj5UaGlyZDwvZGl2PgogICAgICAgICAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wiPkVxdWFsPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9InctMTAwIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wiPkVxdWFsPC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">CQkJCTxkaXYgY2xhc3M9InctMTAwIj48L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
