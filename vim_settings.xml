@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>&quot;</entry>
         <entry>preset-env</entry>
         <entry>performUnitOf</entry>
         <entry>render</entry>
@@ -25,6 +24,7 @@
         <entry>kind-of</entry>
         <entry>ngx</entry>
         <entry>bootstrap</entry>
+        <entry>styles</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">aW5vcmVtYXAgamsgPGVzYz4=</entry>
@@ -112,11 +112,12 @@
       <file name="/Dummy.txt" timestamp="1587670310470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/playground/agclone/angular.json" timestamp="1587738432244">
-        <mark key="[" line="25" column="23" />
-        <mark key="]" line="26" column="47" />
-        <mark key="^" line="26" column="47" />
-        <mark key="." line="26" column="46" />
+      <file name="C:/playground/agclone/angular.json" timestamp="1587756734039">
+        <mark key="'" line="28" column="19" />
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="65" />
+        <mark key="^" line="26" column="65" />
+        <mark key="." line="26" column="64" />
       </file>
       <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.ts" timestamp="1587740647809">
         <mark key="[" line="0" column="31" />
@@ -154,16 +155,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/index.ts" timestamp="1587079764027">
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="40" />
-      </file>
-      <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1587747053209">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="5" column="26" />
+      <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1587757712627">
+        <mark key="[" line="1" column="76" />
+        <mark key="]" line="1" column="76" />
+        <mark key="." line="1" column="75" />
+        <mark key="^" line="1" column="76" />
       </file>
       <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
         <mark key="[" line="17" column="44" />
@@ -200,10 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="6" filename="C:/php_sandbox/shmoop/exercise3/tests/ContactListObjTest.php" />
-      <jump line="16" column="6" filename="C:/php_sandbox/shmoop/exercise3/tests/ContactListObjTest.php" />
-      <jump line="36" column="25" filename="C:/php_sandbox/shmoop/exercise3/ContactsList.php" />
-      <jump line="6" column="8" filename="C:/php_sandbox/shmoop/exercise3/ContactsList.php" />
       <jump line="48" column="33" filename="C:/php_sandbox/shmoop/exercise4/ContactsList.php" />
       <jump line="78" column="0" filename="C:/php_sandbox/shmoop/exercise4/ContactsList.php" />
       <jump line="34" column="8" filename="C:/php_sandbox/test/test.php" />
@@ -300,48 +292,52 @@
       <jump line="27" column="47" filename="C:/playground/pluralsight_angular_path/angular_forms/ps-demo/angular.json" />
       <jump line="26" column="32" filename="C:/playground/pluralsight_angular_path/angular_forms/ps-demo/angular.json" />
       <jump line="28" column="4" filename="C:/playground/agclone/src/app/app.component.html" />
+      <jump line="90" column="13" filename="C:/playground/agclone/angular.json" />
+      <jump line="91" column="19" filename="C:/playground/agclone/angular.json" />
+      <jump line="25" column="13" filename="C:/playground/agclone/angular.json" />
+      <jump line="27" column="19" filename="C:/playground/agclone/angular.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYSBmYS11c2VyIGNvbC03IHRleHQtcmlnaHQiIHN0eWxlPSJmb250LXNpemU6IDJlbTsiPjwvaT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IGNsYXNzPSJjb2wtNSI=</text>
       </register>
       <register name="/" type="4">
-        <text>bootstrap</text>
+        <text>styles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiA0LAogICAgICAgIHRpdGxlOiAnVGhpcyBpcyB0aGUgZm91cnRoIGl0ZW0nLAogICAgICAgIHByaWNlOiA1MCwKICAgICAgICBpbWFnZVVybDogJ2Fzc2V0cy9pbWFnZXMvYzRhYy5wbmcnCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYSBmYS11c2VyIGNvbC03IHRleHQtcmlnaHQiIHN0eWxlPSJmb250LXNpemU6IDJlbTsiPjwvaT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPGFwcC1nYWxsZXJ5LWl0ZW0gW2dhbGxlcnlJdGVtXT0iZ2FsbGVyeUl0ZW0iPjwvYXBwLWdhbGxlcnktaXRlbT4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icHktMyIgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iZC1mbGV4IGZsZXgtY29sdW1uIj4K</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImFsaWduLXNlbGYtcmlnaHQiPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgPgo=</text>
+        <text encoding="base64">ICAgIDxpIGNsYXNzPSJmYSBmYS11c2VyIj48L2k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8aW1nIFtzcmNdPSJnYWxsZXJ5SXRlbS5pbWFnZVVybCIgY2xhc3M9ImltZy1mbHVpZCBnYWxsZXJ5LWltZyBteC1hdXRvIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGFwcC1nYWxsZXJ5LWl0ZW0gW2dhbGxlcnlJdGVtXT0iZ2FsbGVyeUl0ZW0iPjwvYXBwLWdhbGxlcnktaXRlbT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ0ZXh0LXVwcGVyY2FzZSBwdC0yIj57eyBnYWxsZXJ5SXRlbS50aXRsZSB9fTwvZGl2PgogIDxkaXYgY2xhc3M9ImQtZmxleCBqdXN0aWZ5LWNvbnRlbnQtYmV0d2VlbiI+CiAgICA8c3Ryb25nPmZyb20gPHNwYW4+e3sgZ2FsbGVyeUl0ZW0ucHJpY2UgfCBjdXJyZW5jeTogJ1VTRCcgfX08L3NwYW4+PC9zdHJvbmc+CiAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tc20iPkJ1eSBOb3c8L2J1dHRvbj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icHktMyIgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iZC1mbGV4IGZsZXgtY29sdW1uIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -350,11 +346,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bootstrap</last-search>
+      <last-search>styles</last-search>
       <last-offset />
-      <last-pattern>bootstrap</last-pattern>
+      <last-pattern>styles</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
