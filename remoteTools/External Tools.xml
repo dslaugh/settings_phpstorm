@@ -1,26 +1,26 @@
 <toolSet name="External Tools">
-  <tool name="Remote Clean, Reset and Pull" description="Cleans and clears any changes on the remote and pulls in latest changes." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="f6c17616-4e89-4065-af0e-b81548b67c1e">
+  <tool name="Remote Clean, Reset and Pull" description="Cleans and clears any changes on the remote and pulls in latest changes." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="sentinel-php7" CONNECTION_ADDITIONAL_DATA="8981cc53-a69d-41ca-823a-eb0457b658e6">
     <exec>
       <option name="COMMAND" value="/usr/bin/git" />
       <option name="PARAMETERS" value="clean -f;/usr/bin/git reset --hard; /usr/bin/git pull" />
       <option name="WORKING_DIRECTORY" value="/home/dslaugh/sentryds" />
     </exec>
   </tool>
-  <tool name="Remote Clean Check" description="Checks to see what files would be cleaned if a git clean were run." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="f6c17616-4e89-4065-af0e-b81548b67c1e">
+  <tool name="Remote Clean Check" description="Checks to see what files would be cleaned if a git clean were run." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="sentinel-php7" CONNECTION_ADDITIONAL_DATA="8981cc53-a69d-41ca-823a-eb0457b658e6">
     <exec>
       <option name="COMMAND" value="/usr/bin/git" />
       <option name="PARAMETERS" value="clean -n" />
       <option name="WORKING_DIRECTORY" value="/home/dslaugh/sentryds" />
     </exec>
   </tool>
-  <tool name="Get Remote Branch" description="Output the current branch on the remote server." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="f6c17616-4e89-4065-af0e-b81548b67c1e">
+  <tool name="Get Remote Branch" description="Output the current branch on the remote server." showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="sentinel-php7" CONNECTION_ADDITIONAL_DATA="8981cc53-a69d-41ca-823a-eb0457b658e6">
     <exec>
       <option name="COMMAND" value="/usr/bin/git" />
       <option name="PARAMETERS" value="rev-parse --abbrev-ref HEAD" />
       <option name="WORKING_DIRECTORY" value="/home/dslaugh/sentryds" />
     </exec>
   </tool>
-  <tool name="Enable x-debug on remote repo" description="Modify htaccess file for debugging" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="DEPLOYMENT_SERVER" CONNECTION_ID="f6c17616-4e89-4065-af0e-b81548b67c1e">
+  <tool name="Enable x-debug on remote repo" description="Modify htaccess file for debugging" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true" CONNECTION_TYPE="SSH_CONFIG" CONNECTION_ID="sentinel-php7" CONNECTION_ADDITIONAL_DATA="8981cc53-a69d-41ca-823a-eb0457b658e6">
     <exec>
       <option name="COMMAND" value="/bin/echo" />
       <option name="PARAMETERS" value="-e &quot;php_value xdebug.remote_enable 1\nphp_value xdebug.remote_host `echo $SSH_CLIENT | awk '{ print $1 }'`&quot; &gt;&gt; ~/sentryds/www/.htaccess" />

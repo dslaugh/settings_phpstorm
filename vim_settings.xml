@@ -85,17 +85,50 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/app.module.ts" timestamp="1587079944592">
+        <mark key="[" line="81" column="42" />
+        <mark key="]" line="81" column="43" />
+        <mark key="^" line="81" column="43" />
+        <mark key="." line="81" column="42" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.ts" timestamp="1587081721401">
+        <mark key="[" line="59" column="3" />
+        <mark key="]" line="62" column="33" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="62" column="32" />
+      </file>
+      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.html" timestamp="1587745209209">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="53" />
+        <mark key="." line="0" column="52" />
+        <mark key="^" line="0" column="53" />
+      </file>
       <file name="C:/playground/pluralsight_bootstrap/0205-start/0205-media-breakpoints.html" timestamp="1587655509651">
         <mark key="[" line="16" column="16" />
         <mark key="]" line="16" column="17" />
         <mark key="^" line="16" column="17" />
         <mark key="." line="16" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1587670310470">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/playground/agclone/angular.json" timestamp="1587738432244">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="26" column="47" />
         <mark key="^" line="26" column="47" />
         <mark key="." line="26" column="46" />
+      </file>
+      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.ts" timestamp="1587740647809">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="C:/playground/agclone/src/app/app.component.ts" timestamp="1587745018838">
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="34" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.ts" timestamp="1587081833376">
         <mark key="[" line="33" column="3" />
@@ -109,11 +142,28 @@
         <mark key="." line="10" column="36" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.css" timestamp="1587742482179">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="15" />
+      <file name="C:/playground/pluralsight_bootstrap/0206-start/0206-grid-system.html" timestamp="1587656691439">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="35" />
+      </file>
+      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.css" timestamp="1587746111942">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="17" />
+        <mark key="^" line="5" column="18" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/index.ts" timestamp="1587079764027">
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="0" column="41" />
+        <mark key="." line="0" column="40" />
+      </file>
+      <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1587746307186">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="50" />
+        <mark key="." line="1" column="49" />
+        <mark key="^" line="1" column="50" />
       </file>
       <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
         <mark key="[" line="17" column="44" />
@@ -141,56 +191,6 @@
         <mark key="]" line="48" column="114" />
         <mark key="^" line="48" column="114" />
         <mark key="." line="48" column="113" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/app.module.ts" timestamp="1587079944592">
-        <mark key="[" line="81" column="42" />
-        <mark key="]" line="81" column="43" />
-        <mark key="^" line="81" column="43" />
-        <mark key="." line="81" column="42" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.ts" timestamp="1587081721401">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="62" column="33" />
-        <mark key="^" line="62" column="33" />
-        <mark key="." line="62" column="32" />
-      </file>
-      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.html" timestamp="1587742491690">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="31" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="31" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587670310470">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.ts" timestamp="1587740647809">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="C:/playground/agclone/src/app/app.component.ts" timestamp="1587740985707">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="C:/playground/pluralsight_bootstrap/0206-start/0206-grid-system.html" timestamp="1587656691439">
-        <mark key="[" line="33" column="24" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="35" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/index.ts" timestamp="1587079764027">
-        <mark key="]" line="0" column="41" />
-        <mark key="^" line="0" column="41" />
-        <mark key="." line="0" column="40" />
-      </file>
-      <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1587742115750">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="8" column="63" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="63" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.html" timestamp="1587081682111">
         <mark key="[" line="44" column="25" />
@@ -305,40 +305,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>card</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>card</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>bootstrap</text>
       </register>
-      <register name="0" type="4">
-        <text>4</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgewogICAgICAgIGlkOiA0LAogICAgICAgIHRpdGxlOiAnVGhpcyBpcyB0aGUgZm91cnRoIGl0ZW0nLAogICAgICAgIHByaWNlOiA1MCwKICAgICAgICBpbWFnZVVybDogJ2Fzc2V0cy9pbWFnZXMvYzRhYy5wbmcnCiAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8aW1nIFtzcmNdPSJnYWxsZXJ5SXRlbS5pbWFnZVVybCIgY2xhc3M9ImltZy1mbHVpZCBnYWxsZXJ5LWltZyBteC1hdXRvIi8+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGFwcC1nYWxsZXJ5LWl0ZW0gW2dhbGxlcnlJdGVtXT0iZ2FsbGVyeUl0ZW0iPjwvYXBwLWdhbGxlcnktaXRlbT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ0ZXh0LXVwcGVyY2FzZSBwdC0yIj57eyBnYWxsZXJ5SXRlbS50aXRsZSB9fTwvZGl2PgogIDxkaXYgY2xhc3M9ImQtZmxleCBqdXN0aWZ5LWNvbnRlbnQtYmV0d2VlbiI+CiAgICA8c3Ryb25nPmZyb20gPHNwYW4+e3sgZ2FsbGVyeUl0ZW0ucHJpY2UgfCBjdXJyZW5jeTogJ1VTRCcgfX08L3NwYW4+PC9zdHJvbmc+CiAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tc20iPkJ1eSBOb3c8L2J1dHRvbj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icHktMyIgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iZC1mbGV4IGZsZXgtY29sdW1uIj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxhcHAtZ2FsbGVyeS1pdGVtIFtnYWxsZXJ5SXRlbV09ImdhbGxlcnlJdGVtIj48L2FwcC1nYWxsZXJ5LWl0ZW0+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSUdhbGxlcnlJdGVtIH0gZnJvbSAnLi9nYWxsZXJ5LWl0ZW0nOwo=</text>
+        <text encoding="base64">ICA8aW1nIFtzcmNdPSJnYWxsZXJ5SXRlbS5pbWFnZVVybCIgY2xhc3M9ImltZy1mbHVpZCBnYWxsZXJ5LWltZyBteC1hdXRvIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnYWxsZXJ5SXRlbXM6IElHYWxsZXJ5SXRlbVtdOwo=</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ0ZXh0LXVwcGVyY2FzZSBwdC0yIj57eyBnYWxsZXJ5SXRlbS50aXRsZSB9fTwvZGl2PgogIDxkaXYgY2xhc3M9ImQtZmxleCBqdXN0aWZ5LWNvbnRlbnQtYmV0d2VlbiI+CiAgICA8c3Ryb25nPmZyb20gPHNwYW4+e3sgZ2FsbGVyeUl0ZW0ucHJpY2UgfCBjdXJyZW5jeTogJ1VTRCcgfX08L3NwYW4+PC9zdHJvbmc+CiAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSBidG4tc20iPkJ1eSBOb3c8L2J1dHRvbj4KICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -354,7 +354,7 @@
       <last-offset />
       <last-pattern>bootstrap</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
