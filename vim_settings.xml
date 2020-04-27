@@ -149,11 +149,11 @@
         <mark key="." line="5" column="17" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1588001357638">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="8" column="67" />
-        <mark key="^" line="8" column="67" />
-        <mark key="." line="8" column="66" />
+      <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1588001968244">
+        <mark key="[" line="8" column="77" />
+        <mark key="]" line="8" column="77" />
+        <mark key="^" line="8" column="77" />
+        <mark key="." line="8" column="76" />
       </file>
       <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
         <mark key="[" line="17" column="44" />
@@ -295,10 +295,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>C</text>
+        <text encoding="base64">IG1sLWF1dG8=</text>
       </register>
       <register name="-" type="4">
-        <text>C</text>
+        <text encoding="base64">IG1sLWF1dG8=</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
