@@ -155,6 +155,18 @@
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="22" />
       </file>
+      <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/app.component.html" timestamp="1588084864258">
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="33" column="17" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="17" />
+      </file>
+      <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/app.module.ts" timestamp="1588084717216">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="29" />
+        <mark key="^" line="25" column="29" />
+        <mark key="." line="25" column="28" />
+      </file>
       <file name="C:/playground/pluralsight_bootstrap/0207-start/0207-alignment-and -offsets.html" timestamp="1587657520361">
         <mark key="[" line="17" column="44" />
         <mark key="]" line="17" column="45" />
@@ -164,11 +176,10 @@
       <file name="C:/playground/pluralsight_angular_path/angular_forms/ps-demo/angular.json" timestamp="1587738239645">
         <mark key="'" line="26" column="32" />
       </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/session-list.component.ts" timestamp="1587080129558">
-        <mark key="[" line="0" column="32" />
-        <mark key="]" line="0" column="32" />
-        <mark key="^" line="0" column="32" />
-        <mark key="." line="0" column="31" />
+      <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/home/welcome.component.ts" timestamp="1588084874701">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/playground/pluralsight_bootstrap/0208-start/0208-padding-display-and-margins.html" timestamp="1587657731162">
         <mark key="[" line="24" column="69" />
@@ -294,11 +305,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZWxlY3RvcjogJ3BtLWhvbWUnLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>redirectTo</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
@@ -307,31 +318,31 @@
         <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0iZC1mbGV4IGp1c3RpZnktY29udGVudC1zdGFydCBmbGV4LXdyYXAiPgogICAgPGRpdiAqbmdGb3I9ImxldCBnYWxsZXJ5SXRlbSBvZiBnYWxsZXJ5SXRlbXMiPgogICAgICA8YXBwLWdhbGxlcnktaXRlbSBbZ2FsbGVyeUl0ZW1dPSJnYWxsZXJ5SXRlbSI+PC9hcHAtZ2FsbGVyeS1pdGVtPgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAtLT4K</text>
+        <text encoding="base64">ICBzZWxlY3RvcjogJ3BtLWhvbWUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8IS0tCg==</text>
+        <text encoding="base64">ICA8cG0taG9tZT48L3BtLWhvbWU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icm93Ij4KICAgIDxkaXYgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iY29sLTMiPgogICAgICA8YXBwLWdhbGxlcnktaXRlbSBbZ2FsbGVyeUl0ZW1dPSJnYWxsZXJ5SXRlbSI+PC9hcHAtZ2FsbGVyeS1pdGVtPgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAtLT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICA8IS0tCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDx1bCBjbGFzcz0ibmF2YmFyLW5hdiBqdXN0aWZ5LWNvbnRlbnQtZW5kIGJnLWRhcmsiPgo=</text>
+        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icm93Ij4KICAgIDxkaXYgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iY29sLTMiPgogICAgICA8YXBwLWdhbGxlcnktaXRlbSBbZ2FsbGVyeUl0ZW1dPSJnYWxsZXJ5SXRlbSI+PC9hcHAtZ2FsbGVyeS1pdGVtPgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibm9kZV9tb2R1bGVzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcyIsCg==</text>
+        <text encoding="base64">ICB3aWR0aDogMjUwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx1bCBjbGFzcz0ibmF2YmFyLW5hdiBqdXN0aWZ5LWNvbnRlbnQtZW5kIGJnLWRhcmsiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibm9kZV9tb2R1bGVzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtNCB0ZXh0LXJpZ2h0Ij4KICAgIDxpIGNsYXNzPSJmYSBmYS11c2VyIiBzdHlsZT0iZm9udC1zaXplOiAyZW07Ij48L2k+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
