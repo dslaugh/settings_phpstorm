@@ -86,12 +86,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.ts" timestamp="1587081721401">
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="62" column="33" />
-        <mark key="^" line="62" column="33" />
-        <mark key="." line="62" column="32" />
-      </file>
       <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.html" timestamp="1587745209209">
         <mark key="[" line="0" column="48" />
         <mark key="]" line="0" column="53" />
@@ -143,6 +137,12 @@
         <mark key="." line="33" column="25" />
         <mark key="^" line="33" column="35" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.html" timestamp="1588087166653">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="49" />
+        <mark key="^" line="11" column="50" />
+      </file>
       <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.css" timestamp="1588004649537">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -161,6 +161,12 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="5" column="34" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/app.component.html" timestamp="1588086167000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="16" />
+      </file>
       <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/app.module.ts" timestamp="1588084717216">
         <mark key="[" line="25" column="20" />
         <mark key="]" line="25" column="29" />
@@ -176,6 +182,12 @@
       <file name="C:/playground/pluralsight_angular_path/angular_forms/ps-demo/angular.json" timestamp="1587738239645">
         <mark key="'" line="26" column="32" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/app-routing.module.ts" timestamp="1588087134518">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="26" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="25" />
+      </file>
       <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/home/welcome.component.ts" timestamp="1588084874701">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -186,18 +198,6 @@
         <mark key="]" line="24" column="70" />
         <mark key="^" line="24" column="70" />
         <mark key="." line="24" column="70" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/event-details.component.html" timestamp="1587081790869">
-        <mark key="[" line="48" column="75" />
-        <mark key="]" line="48" column="114" />
-        <mark key="^" line="48" column="114" />
-        <mark key="." line="48" column="113" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_fundamentals/ng-fundamentals/src/app/events/event-details/create-session.component.html" timestamp="1587081682111">
-        <mark key="[" line="44" column="25" />
-        <mark key="]" line="44" column="43" />
-        <mark key="^" line="44" column="43" />
-        <mark key="." line="44" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -305,44 +305,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogJ3BtLWhvbWUnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>profile</text>
       </register>
       <register name="-" type="4">
-        <text>redirectTo</text>
+        <text>profile</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0iZC1mbGV4IGp1c3RpZnktY29udGVudC1zdGFydCBmbGV4LXdyYXAiPgogICAgPGRpdiAqbmdGb3I9ImxldCBnYWxsZXJ5SXRlbSBvZiBnYWxsZXJ5SXRlbXMiPgogICAgICA8YXBwLWdhbGxlcnktaXRlbSBbZ2FsbGVyeUl0ZW1dPSJnYWxsZXJ5SXRlbSI+PC9hcHAtZ2FsbGVyeS1pdGVtPgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIFtyb3V0ZXJMaW5rXT0iWycvcHJvZmlsZSddIj4KICAgICAgICBQcm9maWxlCiAgICAgIDwvYT4KICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogJ3BtLWhvbWUnLAo=</text>
+        <text encoding="base64">ICAgICAgICBIb21lIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8cG0taG9tZT48L3BtLWhvbWU+Cg==</text>
+        <text encoding="base64">PHA+aGVhZGVyLW5hdiB3b3JrcyE8L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtLT4K</text>
+        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1leHBhbmQtbGcgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0Ij4KICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBbcm91dGVyTGlua109IlsnL2hvbWUnXSI+CiAgICBDYW52YXMgNCBhIENhdXNlCiAgPC9hPgogIDx1bCBjbGFzcz0ibmF2YmFyLW5hdiI+CiAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBbcm91dGVyTGlua109IlsnL2hvbWUnXSI+CiAgICAgICAgSG9tZSA8c3BhbiBjbGFzcz0ic3Itb25seSI+KGN1cnJlbnQpPC9zcGFuPgogICAgICA8L2E+CiAgICA8L2xpPgogIDwvdWw+CjwvbmF2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8IS0tCg==</text>
+        <text encoding="base64">ICBzZWxlY3RvcjogJ3BtLWhvbWUnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icm93Ij4KICAgIDxkaXYgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iY29sLTMiPgogICAgICA8YXBwLWdhbGxlcnktaXRlbSBbZ2FsbGVyeUl0ZW1dPSJnYWxsZXJ5SXRlbSI+PC9hcHAtZ2FsbGVyeS1pdGVtPgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICA8cG0taG9tZT48L3BtLWhvbWU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB3aWR0aDogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICAtLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDx1bCBjbGFzcz0ibmF2YmFyLW5hdiBqdXN0aWZ5LWNvbnRlbnQtZW5kIGJnLWRhcmsiPgo=</text>
+        <text encoding="base64">ICA8IS0tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibm9kZV9tb2R1bGVzL2Jvb3RzdHJhcC9kaXN0L2Nzcy9ib290c3RyYXAubWluLmNzcyIsCg==</text>
+        <text encoding="base64">ICA8c2VjdGlvbiBjbGFzcz0icm93Ij4KICAgIDxkaXYgKm5nRm9yPSJsZXQgZ2FsbGVyeUl0ZW0gb2YgZ2FsbGVyeUl0ZW1zIiBjbGFzcz0iY29sLTMiPgogICAgICA8YXBwLWdhbGxlcnktaXRlbSBbZ2FsbGVyeUl0ZW1dPSJnYWxsZXJ5SXRlbSI+PC9hcHAtZ2FsbGVyeS1pdGVtPgogICAgPC9kaXY+CiAgPC9zZWN0aW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogMjUwcHg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
