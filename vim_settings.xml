@@ -86,6 +86,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/bitbucket_repos/c4ac/src/app/about-us/about-us.component.html" timestamp="1588459908416">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="23" column="26" />
+      </file>
       <file name="C:/playground/agclone/angular.json" timestamp="1587999834443">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -98,17 +104,17 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="39" />
       </file>
-      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.ts" timestamp="1587741256411">
-        <mark key="[" line="9" column="19" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="37" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/about-us/about-us.component.ts" timestamp="1588459038894">
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="8" column="21" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="8" column="20" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.html" timestamp="1588087166653">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="49" />
-        <mark key="^" line="11" column="50" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.html" timestamp="1588458902495">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="47" />
+        <mark key="." line="23" column="46" />
+        <mark key="^" line="23" column="47" />
       </file>
       <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/products/product.module.ts" timestamp="1588089778712">
         <mark key="[" line="7" column="21" />
@@ -134,47 +140,47 @@
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="50" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/app.component.html" timestamp="1588086167000">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="16" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/app.component.html" timestamp="1588457082631">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="2" column="5" />
       </file>
-      <file name="C:/playground/pluralsight_angular_path/angular_forms/ps-demo/angular.json" timestamp="1587738239645">
-        <mark key="'" line="26" column="32" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/app-routing.module.ts" timestamp="1588458929942">
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="41" />
+        <mark key="^" line="20" column="42" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/app-routing.module.ts" timestamp="1588087134518">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="5" column="26" />
-        <mark key="." line="5" column="25" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/contact/contact.component.ts" timestamp="1588456000491">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="8" />
       </file>
-      <file name="C:/playground/pluralsight_bootstrap/0208-start/0208-padding-display-and-margins.html" timestamp="1587657731162">
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="24" column="70" />
-        <mark key="^" line="24" column="70" />
-        <mark key="." line="24" column="70" />
-      </file>
-      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.component.html" timestamp="1587745209209">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="53" />
-        <mark key="." line="0" column="52" />
-        <mark key="^" line="0" column="53" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587670310470">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/playground/agclone/src/app/gallery-item/gallery-item.ts" timestamp="1587740647809">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/contact/contact.component.html" timestamp="1588459076608">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="16" column="50" />
       </file>
       <file name="C:/playground/agclone/src/app/app.component.ts" timestamp="1588000704191">
         <mark key="[" line="10" column="31" />
         <mark key="]" line="11" column="34" />
         <mark key="^" line="11" column="34" />
         <mark key="." line="11" column="33" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/contact/contact.component.css" timestamp="1588458143647">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/footer/footer.component.html" timestamp="1588456889470">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="49" />
       </file>
       <file name="C:/playground/agclone/src/app/app.component.html" timestamp="1588004956703">
         <mark key="[" line="29" column="18" />
@@ -192,6 +198,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/about-us/about-us.component.css" timestamp="1588459266846">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -300,43 +312,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICBQaG90byAzIFRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>profile</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaSBjbGFzcz0ibmF2LWl0ZW0iPgogICAgICA8YSBjbGFzcz0ibmF2LWxpbmsiIFtyb3V0ZXJMaW5rXT0iWycvcHJvZmlsZSddIj4KICAgICAgICBQcm9maWxlCiAgICAgIDwvYT4KICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICBMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LCBzZWQgZG8gZWl1c21vZCB0ZW1wb3IKICBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBDb25zZXF1YXQgaW50ZXJkdW0gdmFyaXVzIHNpdAogIGFtZXQgbWF0dGlzLiBUcmlzdGlxdWUgc2VuZWN0dXMgZXQgbmV0dXMgZXQuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICBQaG90byAzIFRleHQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdQo=</text>
+        <text encoding="base64">ICBQaG90byAyIFRleHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBIb21lIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICA8ZGl2PlBob3RvIDMgVGV4dDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHA+aGVhZGVyLW5hdiB3b3JrcyE8L3A+Cg==</text>
+        <text encoding="base64">ICA8ZGl2PlBob3RvIDEgVGV4dDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PG5hdiBjbGFzcz0ibmF2YmFyIG5hdmJhci1leHBhbmQtbGcgbmF2YmFyLWxpZ2h0IGJnLWxpZ2h0Ij4KICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBbcm91dGVyTGlua109IlsnL2hvbWUnXSI+CiAgICBDYW52YXMgNCBhIENhdXNlCiAgPC9hPgogIDx1bCBjbGFzcz0ibmF2YmFyLW5hdiI+CiAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIiBbcm91dGVyTGlua109IlsnL2hvbWUnXSI+CiAgICAgICAgSG9tZSA8c3BhbiBjbGFzcz0ic3Itb25seSI+KGN1cnJlbnQpPC9zcGFuPgogICAgICA8L2E+CiAgICA8L2xpPgogIDwvdWw+CjwvbmF2Pgo=</text>
+        <text encoding="base64">ICA8ZGl2PlBob3RvIDIgVGV4dDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogJ3BtLWhvbWUnLAo=</text>
+        <text encoding="base64">ICBQaG90byAyCiAgUGhvdG8gMwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8cG0taG9tZT48L3BtLWhvbWU+Cg==</text>
+        <text encoding="base64">ICBQaG90byAyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtLT4K</text>
+        <text encoding="base64">PHA+YWJvdXQtdXMgd29ya3MhPC9wPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8IS0tCg==</text>
+        <text encoding="base64">ICB7IHBhdGg6ICdnYWxsZXJ5JywgY29tcG9uZW50OiBHYWxsZWQgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -353,7 +365,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
