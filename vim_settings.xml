@@ -158,11 +158,11 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="16" column="50" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/welcome/welcome.component.html" timestamp="1588461261457">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="1" column="2" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/welcome/welcome.component.html" timestamp="1588461386336">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="0" column="22" />
       </file>
       <file name="C:/playground/agclone/src/app/app.component.ts" timestamp="1588000704191">
         <mark key="[" line="10" column="31" />
@@ -311,11 +311,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJiYWNrZ3JvdW5kOiB1cmwoJy9hc3NldHMvaW1hZ2VzL2hhd2FpaV9iZWFjaC5wbmcnKSBuby1yZXBlYXQi</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
