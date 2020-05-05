@@ -121,6 +121,12 @@
         <mark key="^" line="8" column="21" />
         <mark key="." line="8" column="20" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588698867252">
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="30" />
+      </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/server.js" timestamp="1588695071303">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -185,11 +191,6 @@
         <mark key="]" line="10" column="46" />
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
-      </file>
-      <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/home/welcome.component.ts" timestamp="1588084874701">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/contact/contact.component.html" timestamp="1588459076608">
         <mark key="[" line="0" column="26" />
