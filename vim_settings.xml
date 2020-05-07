@@ -92,11 +92,11 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1588885783922">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="39" />
-        <mark key="^" line="28" column="40" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1588888354389">
+        <mark key="[" line="65" column="29" />
+        <mark key="]" line="65" column="54" />
+        <mark key="." line="65" column="53" />
+        <mark key="^" line="65" column="54" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.html" timestamp="1588881314654">
         <mark key="[" line="34" column="8" />
@@ -127,6 +127,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="C:/playground/pluralsight_angular_path/reactive_forms/reactive_forms/src/app/customers/customer.component.html" timestamp="1588888026090" />
       <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1588875949976">
         <mark key="[" line="8" column="46" />
         <mark key="]" line="9" column="13" />
@@ -138,6 +139,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="C:/playground/pluralsight_angular_path/reactive_forms/reactive_forms/src/app/customers/customer.component.ts" timestamp="1588887493665" />
       <file name="C:/bitbucket_repos/c4ac/server/db.js" timestamp="1588876448050">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="22" />
@@ -155,11 +157,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" timestamp="1588882346766">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="30" />
-        <mark key="." line="10" column="29" />
-        <mark key="^" line="10" column="30" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" timestamp="1588888218941">
+        <mark key="'" line="16" column="73" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
+        <mark key="^" line="17" column="20" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/server/config/config.js" timestamp="1588880436121">
         <mark key="[" line="0" column="0" />
@@ -181,7 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="33" filename="C:/php_sandbox/shmoop/exercise4/ContactsList.php" />
       <jump line="78" column="0" filename="C:/php_sandbox/shmoop/exercise4/ContactsList.php" />
       <jump line="34" column="8" filename="C:/php_sandbox/test/test.php" />
       <jump line="50" column="17" filename="C:/php_sandbox/test/test.php" />
@@ -281,15 +283,16 @@
       <jump line="91" column="19" filename="C:/playground/agclone/angular.json" />
       <jump line="25" column="13" filename="C:/playground/agclone/angular.json" />
       <jump line="27" column="19" filename="C:/playground/agclone/angular.json" />
+      <jump line="16" column="73" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>mailControl</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>mailControl</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>CON</text>
@@ -298,31 +301,31 @@
         <text encoding="base64">ZnVuY3Rpb24gZW1haWxNYXRjaGVyKGNvbnRyb2w6IEFic3RyYWN0Q29udHJvbCk6IHsgW2tleTogc3RyaW5nXTogYm9vbGVhbiB9IHwgbnVsbCB7CiAgY29uc3QgZW1haWxDb250cm9sID0gY29udHJvbC5nZXQoJ2VtYWlsJyk7CiAgY29uc3QgY29uZmlybUVtYWlsQ29udHJvbCA9IGNvbnRyb2wuZ2V0KCdjb25maXJtRW1haWwnKTsKCiAgaWYgKGVtYWlsQ29udHJvbC5wcmlzdGluZSB8fCBjb25maXJtRW1haWxDb250cm9sLnByaXN0aW5lKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CiAgaWYgKGVtYWlsQ29udHJvbC52YWx1ZSA9PT0gY29uZmlybUVtYWlsQ29udHJvbC52YWx1ZSkgewogICAgcmV0dXJuIG51bGw7CiAgfQogIHJldHVybiB7IG1hdGNoOiB0cnVlIH07Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IFsnJywgW1ZhbGlkYXRvcnMucmVxdWlyZWQsIFZhbGlkYXRvcnMubWluTGVuZ3RoKDYpXV0K</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB1c2VyRm9ybSA9IG5ldyBGb3JtR3JvdXAoewogICAgZmlyc3ROYW1lOiBuZXcgRm9ybUNvbnRyb2woJycpLAogICAgbGFzdE5hbWU6IG5ldyBGb3JtQ29udHJvbCgnJyksCiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IFsnJywgW1ZhbGlkYXRvcnMucmVxdWlyZWQsIFZhbGlkYXRvcnMubWluTGVuZ3RoKDYpXV0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBGb3JtQ29udHJkZG9sCg==</text>
+        <text encoding="base64">ICB1c2VyRm9ybSA9IG5ldyBGb3JtR3JvdXAoewogICAgZmlyc3ROYW1lOiBuZXcgRm9ybUNvbnRyb2woJycpLAogICAgbGFzdE5hbWU6IG5ldyBGb3JtQ29udHJvbCgnJyksCiAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogJ2FwcC1yZWdpc3RlcicsCg==</text>
+        <text encoding="base64">ICBGb3JtQ29udHJkZG9sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0Cg==</text>
+        <text encoding="base64">ICBzZWxlY3RvcjogJ2FwcC1yZWdpc3RlcicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3Nlck1vZHVsZSB9IGZyb20gJ0Bhbmd1bGFyL3BsYXRmb3JtLWJyb3dzZXInOwo=</text>
+        <text encoding="base64">aW1wb3J0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
