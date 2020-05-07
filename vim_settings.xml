@@ -121,11 +121,11 @@
         <mark key="^" line="17" column="24" />
         <mark key="." line="17" column="23" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/login.routes.js" timestamp="1588868742603">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="5" column="2" />
-        <mark key="." line="5" column="1" />
-        <mark key="^" line="5" column="2" />
+      <file name="C:/bitbucket_repos/c4ac/server/routes/login.routes.js" timestamp="1588871547859">
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="23" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/src/app/welcome/welcome.component.ts" timestamp="1588695181379">
         <mark key="[" line="13" column="31" />
@@ -145,11 +145,11 @@
         <mark key="." line="1" column="26" />
         <mark key="^" line="0" column="22" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1588709435959">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="22" />
+      <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1588871421312">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="14" />
+        <mark key="^" line="12" column="14" />
+        <mark key="." line="12" column="13" />
       </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/src/app/user/user.service.ts" timestamp="1588695009721">
         <mark key="[" line="23" column="0" />
@@ -162,11 +162,11 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588869690563">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="30" />
+      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588871588058">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="34" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="34" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/tsconfig.app.json" timestamp="1588703756551">
         <mark key="[" line="11" column="20" />
@@ -298,11 +298,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gcmVxdWlyZSgnLi9zZXJ2ZXIvcm91dGVzL2xvZ2luLnJvdXRlcycpKGFwcCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>app</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
@@ -311,31 +311,31 @@
         <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2ZXIvcm91dGVzL3VzZXIucm91dGVzJykoYXBwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29ubiA9IGF3YWl0IGRiLmNvbm5lY3QoKTsK</text>
+        <text encoding="base64">Ly8gcmVxdWlyZSgnLi9zZXJ2ZXIvcm91dGVzL2xvZ2luLnJvdXRlcycpKGFwcCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoY29ubmVjdGlvbik7Cg==</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSAoYXBwKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlamVjdChlcnJvcik7Cg==</text>
+        <text encoding="base64">Y29uc3QgYm9keVBhcnNlciA9IHJlcXVpcmUoJ2JvZHktcGFyc2VyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWRkCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29ubiA9IGF3YWl0IGRiLmNvbm5lY3QoKTsK</text>
+        <text encoding="base64">ID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29ubi5lbmQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29ubi5lbmQoKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29ubiA9IGF3YWl0IGRiLmNvbm5lY3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
