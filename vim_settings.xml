@@ -173,17 +173,17 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/config/config.js" timestamp="1588875270644">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="2" column="2" />
-        <mark key="^" line="2" column="2" />
-        <mark key="." line="2" column="1" />
+      <file name="C:/bitbucket_repos/c4ac/server/config/config.js" timestamp="1588880436121">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="17" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/security/securityCheck.js" timestamp="1588878281098">
+      <file name="C:/bitbucket_repos/c4ac/server/security/securityCheck.js" timestamp="1588878412134">
         <mark key="[" line="13" column="28" />
-        <mark key="]" line="13" column="28" />
-        <mark key="^" line="4" column="70" />
-        <mark key="." line="13" column="28" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="36" />
       </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/package.json" timestamp="1588695285828">
         <mark key="[" line="9" column="19" />
@@ -297,8 +297,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBzZWNyZXRLZXk6ICdvYWlhbG4zcnZkc25xdzliaGFzZXZ2bicsCg==</text>
       </register>
       <register name="-" type="4">
         <text>y</text>
@@ -310,31 +310,31 @@
         <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2ZXIvcm91dGVzL3VzZXIucm91dGVzJykoYXBwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZWNyZXRLZXk6ICdvYWlhbG4zcnZkc25xdzliaGFzZXZ2bicsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgQ09ORklHID0gcmVxdWlyZSgnLi4vY29uZmlnL2NvbmZpZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQ09ORklHID0gcmVxdWlyZSgnLi4vY29uZmlnL2NvbmZpZycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnL2NvbmZpZycpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdCA9IHsKICBlbWFpbDogJ2RzbGF1Z2hAZ21haWwuY29tJywKICBwYXNzd29yZDogJ3Bhc3N3b3JkJywKfTsKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3ByaXZhdGVLZXk6ICcsIHByaXZhdGVLZXkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vY29uZmlnL2NvbmZpZycpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgdGVzdCA9IHsKICBlbWFpbDogJ2RzbGF1Z2hAZ21haWwuY29tJywKICBwYXNzd29yZDogJ3Bhc3N3b3JkJywKfTsKCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ3ByaXZhdGVLZXk6ICcsIHByaXZhdGVLZXkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcHJpdmF0ZUtleSA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi9wcml2YXRlLmtleScpLCAndXRmOCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgZGJkCg==</text>
+        <text encoding="base64">Y29uc3QgcHJpdmF0ZUtleSA9IGZzLnJlYWRGaWxlU3luYyhwYXRoLmpvaW4oX19kaXJuYW1lLCAnLi9wcml2YXRlLmtleScpLCAndXRmOCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
