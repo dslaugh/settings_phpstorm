@@ -86,12 +86,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/bitbucket_repos/c4ac/src/app/welcome/welcome.component.html" timestamp="1588461386336">
-        <mark key="[" line="1" column="25" />
-        <mark key="]" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="^" line="0" column="22" />
-      </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/about-us/about-us.component.html" timestamp="1588459908416">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -104,45 +98,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1588709435959">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-        <mark key="." line="5" column="22" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac_project/c4ac/src/app/user/user.service.ts" timestamp="1588695009721">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="8" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/about-us/about-us.component.ts" timestamp="1588459038894">
-        <mark key="[" line="7" column="49" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="8" column="21" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/server/api.js" timestamp="1588707188230">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="12" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588707333090">
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="42" />
-        <mark key="." line="21" column="41" />
-        <mark key="^" line="21" column="42" />
-      </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/server.js" timestamp="1588695071303">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/tsconfig.app.json" timestamp="1588703756551">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="19" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="19" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/server/models/db.js" timestamp="1588711722169">
         <mark key="[" line="44" column="9" />
@@ -156,17 +115,17 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="26" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/config/db.config.js" timestamp="1588702561303">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="C:/bitbucket_repos/c4ac/server/securityCheck.js" timestamp="1588869418075">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="17" column="24" />
+        <mark key="^" line="17" column="24" />
+        <mark key="." line="17" column="23" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/app-routing.module.ts" timestamp="1588458929942">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="41" />
-        <mark key="^" line="20" column="42" />
+      <file name="C:/bitbucket_repos/c4ac/server/routes/login.routes.js" timestamp="1588868742603">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="1" />
+        <mark key="^" line="5" column="2" />
       </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/src/app/welcome/welcome.component.ts" timestamp="1588695181379">
         <mark key="[" line="13" column="31" />
@@ -174,17 +133,58 @@
         <mark key="^" line="13" column="43" />
         <mark key="." line="13" column="42" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/server/routes/login.route.js" timestamp="1588868514531">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="8" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/welcome/welcome.component.html" timestamp="1588461386336">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="0" column="22" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1588709435959">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="22" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac_project/c4ac/src/app/user/user.service.ts" timestamp="1588695009721">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/server/api.js" timestamp="1588707188230">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588868780551">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="30" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/tsconfig.app.json" timestamp="1588703756551">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="19" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/server/config/db.config.js" timestamp="1588702561303">
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="C:/bitbucket_repos/c4ac_project/c4ac/package.json" timestamp="1588695285828">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="10" column="46" />
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="45" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/contact/contact.component.html" timestamp="1588459076608">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-        <mark key="^" line="16" column="50" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/about-us/about-us.component.css" timestamp="1588459266846">
         <mark key="[" line="0" column="0" />
@@ -299,16 +299,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>user</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>user</text>
       </register>
       <register name="/" type="4">
         <text>styles</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbm5lY3Rpb24uY29ubmVjdChlcnJvciA9PiB7CiAgICAgIGlmIChlcnJvcikgewogICAgICAgIHJlamVjdChlcnJvcik7CiAgICAgIH0gZWxzZSB7CiAgICAgICAgcmVzb2x2ZShjb25uZWN0aW9uKTsKICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2ZXIvcm91dGVzL3VzZXIucm91dGVzJykoYXBwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgY29ubiA9IGF3YWl0IGRiLmNvbm5lY3QoKTsK</text>
