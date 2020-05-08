@@ -92,12 +92,6 @@
         <mark key="." line="9" column="13" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1588875949976">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="12" />
-      </file>
       <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588876487519">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -110,18 +104,18 @@
         <mark key="^" line="77" column="36" />
         <mark key="." line="77" column="35" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" timestamp="1588962133509">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="25" column="3" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" timestamp="1588963675940">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="21" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1588962351360">
-        <mark key="'" line="23" column="46" />
-        <mark key="[" line="85" column="29" />
-        <mark key="]" line="85" column="35" />
-        <mark key="^" line="85" column="35" />
-        <mark key="." line="85" column="34" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1588963720572">
+        <mark key="'" line="24" column="46" />
+        <mark key="[" line="85" column="10" />
+        <mark key="]" line="86" column="4" />
+        <mark key="^" line="86" column="4" />
+        <mark key="." line="86" column="3" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/server/db.js" timestamp="1588876448050">
         <mark key="[" line="14" column="15" />
@@ -134,12 +128,6 @@
         <mark key="]" line="34" column="15" />
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="16" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/package.json" timestamp="1588872007858">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="38" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/user/user.service.ts" timestamp="1588880669150">
         <mark key="[" line="17" column="0" />
@@ -171,6 +159,7 @@
         <mark key="^" line="13" column="37" />
         <mark key="." line="13" column="36" />
       </file>
+      <file name="C:/playground/pluralsight_angular_path/services/BookTracker/server/routes/books.js" timestamp="1588963293252" />
       <file name="C:/bitbucket_repos/c4ac/server/securityCheck.js" timestamp="1588876173970">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -198,6 +187,18 @@
         <mark key="'" line="87" column="14" />
         <mark key="[" line="82" column="27" />
         <mark key="]" line="82" column="86" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/user.ts" timestamp="1588963558964">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="19" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="19" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.ts" timestamp="1588963642192">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="50" />
+        <mark key="^" line="25" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -306,10 +307,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>save</text>
@@ -318,28 +319,28 @@
         <text encoding="base64">ICAgICAgICA8ZGl2IGZvcm1Hcm91cE5hbWU9ImVtYWlsR3JvdXAiPgogICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCByb3cgbWItMiI+CiAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLTIgY29sLWZvcm0tbGFiZWwiIGZvcj0iZW1haWxJZCI+RW1haWw8L2xhYmVsPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtOCI+CiAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiCiAgICAgICAgICAgICAgICAgICAgIGlkPSJlbWFpbElkIgogICAgICAgICAgICAgICAgICAgICB0eXBlPSJlbWFpbCIKICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkVtYWlsIChyZXF1aXJlZCkiCiAgICAgICAgICAgICAgICAgICAgIGZvcm1Db250cm9sTmFtZT0iZW1haWwiCiAgICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ieydpcy1pbnZhbGlkJzogZW1haWwuaW52YWxpZCAmJiAoZW1haWwudG91Y2hlZCB8fCBlbWFpbC5kaXJ0eSl9IgogICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImludmFsaWQtZmVlZGJhY2siPgogICAgICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImVtYWlsLmVycm9ycz8ucmVxdWlyZWQiPgogICAgICAgICAgICAgICAgICBQbGVhc2UgZW50ZXIgeW91ciBlbWFpbCBhZGRyZXNzLgogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgPHNwYW4gKm5nSWY9ImVtYWlsLmVycm9ycz8uZW1haWwiPgogICAgICAgICAgICAgICAgICBQbGVhc2UgZW50ZXIgYSB2YWxpZCBlbWFpbCBhZGRyZXNzLgogICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyBtYi0yIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJjb2wtMiBjb2wtZm9ybS1sYWJlbCIgZm9yPSJlbWFpbElkIj5Db25maXJtIEVtYWlsPC9sYWJlbD4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTgiPgogICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIgogICAgICAgICAgICAgICAgICAgICBpZD0iY29uZmlybUVtYWlsSWQiCiAgICAgICAgICAgICAgICAgICAgIHR5cGU9ImNvbmZpcm1FbWFpbCIKICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkNvbmZpcm0gRW1haWwgKHJlcXVpcmVkKSIKICAgICAgICAgICAgICAgICAgICAgZm9ybUNvbnRyb2xOYW1lPSJjb25maXJtRW1haWwiCiAgICAgICAgICAgICAgICAgICAgIFtuZ0NsYXNzXT0ieydpcy1pbnZhbGlkJzogZW1haWxHcm91cC5lcnJvcnMgfHwgKGNvbmZpcm1FbWFpbC5pbnZhbGlkICYmIChjb25maXJtRW1haWwudG91Y2hlZCB8fCBjb25maXJtRW1haWwuZGlydHkpKX0iCiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW52YWxpZC1mZWVkYmFjayI+CiAgICAgICAgICAgICAgICA8c3BhbiAqbmdJZj0iY29uZmlybUVtYWlsLmVycm9ycz8ucmVxdWlyZWQiPgogICAgICAgICAgICAgICAgICBQbGVhc2UgY29uZmlybSB5b3VyIGVtYWlsIGFkZHJlc3MuCiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICA8c3BhbiAqbmdJZj0iZW1haWxHcm91cC5lcnJvcnM/Lm1hdGNoIj4KICAgICAgICAgICAgICAgICAgVGhlIGNvbmZpcm1hdGlvbiBkb2VzIG5vdCBtYXRjaCB0aGUgZW1haWwgYWRkcmVzcy4KICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6ICdwYXNzd29yZCdkZGRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbWFpbEludmFsaWRNZXNzYWdlOiBzdHJpbmc7CiAgcHJpdmF0ZSBpbnZhbGlkRW1haWxNZXNzYWdlcyA9IHsKICAgIHJlcXVpcmVkOiAnUGxlYXNlIGVudGVyIHlvdXIgZW1haWwgYWRkcmVzcycsCiAgICBlbWFpbDogJ1BsZWFzZSBlbnRlciBhIHZhbGlkIGVtYWlsIGFkZHJlc3MnLAogIH07Cg==</text>
+        <text encoding="base64">ICBwYXNzd29yZDogc3RyaW5nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHlwZT0iY29uZmlybUVtYWlsIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcy4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBlbWFpbEludmFsaWRNZXNzYWdlOiBzdHJpbmc7CiAgcHJpdmF0ZSBpbnZhbGlkRW1haWxNZXNzYWdlcyA9IHsKICAgIHJlcXVpcmVkOiAnUGxlYXNlIGVudGVyIHlvdXIgZW1haWwgYWRkcmVzcycsCiAgICBlbWFpbDogJ1BsZWFzZSBlbnRlciBhIHZhbGlkIGVtYWlsIGFkZHJlc3MnLAogIH07Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgdHlwZT0iY29uZmlybUVtYWlsIgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGZiOiBGb3JtQnVpbGRlcikgeyB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgUGxlYXNlIGVudGVyIGEgdmFsaWQgZW1haWwgYWRkcmVzcy4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVib3VuY2VUaW1lIH0gZnJvbSAncnhqcy9vcGVyYXRvcnMnOwo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIGZiOiBGb3JtQnVpbGRlcikgeyB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
