@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="dev-sentinel-php7.mic.sentryds.com" id="8981cc53-a69d-41ca-823a-eb0457b658e6" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh" />
-      <sshConfig host="dev-sentinel-php7.mic.sentryds.com" id="6dbb9682-fbd8-40d2-ad3f-184150c46691" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh" />
+      <sshConfig host="dev-sentinel-php7.mic.sentryds.com" id="7f694692-0cf2-43d5-845d-4746b295f675" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh" />
     </configs>
   </component>
 </application>
