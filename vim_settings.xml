@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>createElement</entry>
-        <entry>commitWork</entry>
-        <entry>updateFunc</entry>
-        <entry>wipFiber</entry>
         <entry>prevSibling</entry>
         <entry>console.log</entry>
         <entry>name</entry>
@@ -25,6 +21,10 @@
         <entry>email</entry>
         <entry>col-2</entry>
         <entry>save</entry>
+        <entry encoding="base64">XDxMb2dpblJlc3BvbnNlXD4=</entry>
+        <entry>lksd</entry>
+        <entry>AuthResponse</entry>
+        <entry>User</entry>
       </history-search>
       <history-cmd>
         <entry>e index.js</entry>
@@ -44,8 +44,8 @@
         <entry>ew</entry>
         <entry>qw</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>noh</entry>
         <entry>W</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -86,18 +86,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/login/login.component.ts" timestamp="1589059755665">
-        <mark key="[" line="41" column="5" />
-        <mark key="]" line="42" column="4" />
-        <mark key="^" line="42" column="4" />
-        <mark key="." line="42" column="3" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/login/login.component.ts" timestamp="1589226412223">
+        <mark key="[" line="29" column="65" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="69" />
+        <mark key="^" line="29" column="25" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1589055586510">
-        <mark key="'" line="25" column="46" />
-        <mark key="[" line="128" column="42" />
-        <mark key="]" line="129" column="86" />
-        <mark key="^" line="129" column="86" />
-        <mark key="." line="129" column="85" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/login_response.js" timestamp="1589072742900">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/auth-response.ts" timestamp="1589226729731">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="^" line="10" column="13" />
+        <mark key="." line="10" column="12" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/login-response.ts" timestamp="1589225985867">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" timestamp="1589227270594">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="27" />
+        <mark key="^" line="25" column="28" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1589226349745">
+        <mark key="'" line="128" column="17" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.html" timestamp="1589061974360">
         <mark key="[" line="27" column="9" />
@@ -111,17 +135,23 @@
         <mark key="." line="66" column="20" />
         <mark key="^" line="66" column="21" />
       </file>
-      <file name="C:/playground/pluralsight_angular_path/routing/Angular-Routing/src/app/user/user.module.ts" timestamp="1589052682003" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/user.service.ts" timestamp="1589056665306">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="28" column="7" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="54" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" timestamp="1589072091081">
+        <mark key="'" line="90" column="30" />
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="157" column="5" />
+      </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/app.module.ts" timestamp="1589052799095">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="21" />
         <mark key="." line="28" column="0" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/users.routes.js" timestamp="1588968312211">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="14" column="24" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/app-routing.module.ts" timestamp="1589050027444">
         <mark key="[" line="27" column="0" />
@@ -129,10 +159,23 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/login.routes.js" timestamp="1589059879138">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="C:/bitbucket_repos/c4ac/server/routes/login.routes.js" timestamp="1589225993490">
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="16" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/user.ts" timestamp="1589226716538">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="10" />
+      </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/login_response.ts" timestamp="1589073756829">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="12" column="4" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/user/user.module.ts" timestamp="1589052961399">
         <mark key="[" line="4" column="26" />
@@ -146,41 +189,11 @@
         <mark key="." line="23" column="28" />
         <mark key="^" line="21" column="48" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/user.routes.js" timestamp="1589048132490">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="8" column="44" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1588968263099">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="4" column="49" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" timestamp="1589059812577">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="31" column="48" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/user.service.ts" timestamp="1589056665306">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="28" column="7" />
-        <mark key="." line="42" column="53" />
-        <mark key="^" line="42" column="54" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" timestamp="1589047816014">
-        <mark key="'" line="90" column="30" />
-        <mark key="[" line="133" column="36" />
-        <mark key="]" line="133" column="36" />
-        <mark key="." line="133" column="36" />
-        <mark key="^" line="146" column="23" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/user-routing.module.ts" timestamp="1589049980363">
-        <mark key="[" line="3" column="33" />
-        <mark key="]" line="3" column="33" />
-        <mark key="." line="3" column="33" />
+      <file name="C:/bitbucket_repos/c4ac/src/app/user/loginUser.ts.js" timestamp="1589072578991">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/shared/shared.module.ts" timestamp="1589052257166">
         <mark key="[" line="11" column="12" />
@@ -190,22 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="C:/playground/mysql_angular/docker-compose.yml" />
-      <jump line="5" column="30" filename="C:/github_repos/sandbox/TypeScript/Youtube_course/project/app.ts" />
-      <jump line="15" column="77" filename="C:/playground/angular_mysql/timeline-client/src/app/timeline/timeline.component.ts" />
-      <jump line="55" column="79" filename="C:/playground/angular_mysql/timeline-client/src/app/timeline/timeline.component.ts" />
-      <jump line="0" column="26" filename="C:/github_repos/sandbox/TypeScript/generics/getBy0.ts" />
-      <jump line="1" column="36" filename="C:/github_repos/sandbox/TypeScript/decorators/log.ts" />
-      <jump line="40" column="27" filename="C:/github_repos/sandbox/TypeScript/decorators/log.js" />
-      <jump line="5" column="71" filename="C:/github_repos/sandbox/TypeScript/decorators/log.ts" />
-      <jump line="39" column="8" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="2502" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="2510" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="2520" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="2523" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="3593" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="4318" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="4326" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="4336" column="13" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="4339" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="4341" column="60" filename="C:/github_repos/chess_visualizer/package-lock.json" />
@@ -290,48 +287,64 @@
       <jump line="67" column="30" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" />
       <jump line="90" column="30" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.html" />
       <jump line="23" column="46" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="42" column="10" filename="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" />
+      <jump line="118" column="22" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="139" column="0" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="35" column="25" filename="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" />
+      <jump line="27" column="0" filename="C:/bitbucket_repos/c4ac/src/app/user/auth.service.ts" />
+      <jump line="138" column="0" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="12" column="9" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="14" column="8" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="50" column="25" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="114" column="19" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="121" column="35" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="122" column="19" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="127" column="25" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="128" column="17" filename="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" />
+      <jump line="22" column="0" filename="C:/bitbucket_repos/c4ac/src/app/user/login/login.component.ts" />
+      <jump line="4" column="8" filename="C:/bitbucket_repos/c4ac/src/app/user/login/login.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZXJlPycpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>User</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmICh0aGlzLmF1dGhTZXJ2aWNlLnJlZGlyZWN0VXJsKSB7CiAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwodGhpcy5hdXRoU2VydmljZS5yZWRpcmVjdFVybCk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy93ZWxjb21lJ10pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZXJlPycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiAhIXRoaXMuY3VycmVudFVzZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtVc2VyfSBmcm9tICcuLi91c2VyJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmF1dGhTZXJ2aWNlLnJlZGlyZWN0VXJsKSB7CiAgICAgIHRoaXMucm91dGVyLm5hdmlnYXRlQnlVcmwodGhpcy5hdXRoU2VydmljZS5yZWRpcmVjdFVybCk7CiAgICB9IGVsc2UgewogICAgICB0aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy93ZWxjb21lJ10pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQXV0aFJlc3BvbnNlIH0gZnJvbSAnLi4vdXNlci9hdXRoLXJlc3BvbnNlJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGp3dC5zaWduKHBheWxvYWQsIHByaXZhdGVLZXksIGp3dE9wdGlvbnMsIHRva2VuQ2FsbGJhY2spOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVXNlciB9IGZyb20gJy4vdXNlcic7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IHsgVXNlciB9IGZyb20gJy4vdXNlcic7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkZnNzZGZoIGVycnJvJywgZXJyb3IpOwo=</text>
+        <text encoding="base64">aW1wCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -340,9 +353,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>save</last-search>
+      <last-search>User</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>User</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
