@@ -92,12 +92,6 @@
         <mark key="." line="29" column="69" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/login_response.js" timestamp="1589072742900">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/user/auth-response.ts" timestamp="1589232414884">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="4" column="10" />
@@ -116,11 +110,10 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/login-response.ts" timestamp="1589225985867">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="11" />
+      <file name="C:/xampp/htdocs/c4ac/.editorconfig" timestamp="1589318224568">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="C:/Homestead/Homestead.yaml" timestamp="1589310004780">
         <mark key="[" line="4" column="10" />
@@ -141,12 +134,6 @@
         <mark key="^" line="34" column="61" />
         <mark key="." line="34" column="60" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/register/register.component.ts" timestamp="1589226349745">
-        <mark key="'" line="128" column="17" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/header-nav/header-nav.component.html" timestamp="1589230898388">
         <mark key="[" line="44" column="9" />
         <mark key="]" line="45" column="7" />
@@ -158,6 +145,24 @@
         <mark key="]" line="61" column="58" />
         <mark key="." line="61" column="57" />
         <mark key="^" line="61" column="58" />
+      </file>
+      <file name="C:/xampp/htdocs/config/app.php" timestamp="1589319047811">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="35" />
+      </file>
+      <file name="C:/xampp/htdocs/.env" timestamp="1589319091318">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Homestead/Homestead.yaml" timestamp="1589315300731">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="28" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/app.module.ts" timestamp="1589229845303">
         <mark key="[" line="18" column="44" />
@@ -182,12 +187,6 @@
         <mark key="]" line="38" column="34" />
         <mark key="^" line="13" column="16" />
         <mark key="." line="38" column="34" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/src/app/user/login_response.ts" timestamp="1589073756829">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="12" column="4" />
       </file>
       <file name="C:/bitbucket_repos/c4ac/src/app/user/user.ts" timestamp="1589226716538">
         <mark key="[" line="5" column="10" />
@@ -315,43 +314,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>virtualbox</text>
+        <text>Laravel</text>
       </register>
       <register name="-" type="4">
-        <text>virtualbox</text>
+        <text>Laravel</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZW52aXJvbm1lbnQgfSBmcm9tICcuLi8uLi9lbnZpcm9ubWVudHMvZW52aXJvbm1lbnQnOwo=</text>
+        <text encoding="base64">YXV0aG9yaXplOiB+Ly5zc2gvaWRfcnNhLnB1Ygo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRTZXNzaW9uJywgbW9tZW50KCkuZm9ybWF0KCdoOm1tOnNzJyksIGV4cGlyZXNBdC5mb3JtYXQoJ2g6bW06c3MnKSk7Cg==</text>
+        <text encoding="base64">YXV0aG9yaXplOiB+Ly5zc2gvaWRfcnNhLnB1Ygo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRTZXNzaW9uIGF1dGhSZXNwb25zZScsIGF1dGhSZXNwb25zZS5leHBpcmVzSW4pOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRTZXNzaW9uJywgbW9tZW50KCkuZm9ybWF0KCdoOm1tOnNzJyksIGV4cGlyZXNBdC5mb3JtYXQoJ2g6bW06c3MnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoU2VydmljZSBpc0xvZ2dlZEluOiAnLCBub3csIHRoaXMuZ2V0RXhwaXJhdGlvbigpKTsKICAgIHJldHVybiB4Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXRTZXNzaW9uIGF1dGhSZXNwb25zZScsIGF1dGhSZXNwb25zZS5leHBpcmVzSW4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Rva2VuIGRvZXMgbm90IGV4aXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoU2VydmljZSBpc0xvZ2dlZEluOiAnLCBub3csIHRoaXMuZ2V0RXhwaXJhdGlvbigpKTsKICAgIHJldHVybiB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoSW50ZXJjZXB0b3Igd2FzIGhpdCEhISAnKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Rva2VuIGRvZXMgbm90IGV4aXN0Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Rva2VuIGV4aXN0cycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoSW50ZXJjZXB0b3Igd2FzIGhpdCEhISAnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoU2VydmljZSBpc0xvZ2dlZEluJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Rva2VuIGV4aXN0cycpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoU2VydmljZSBpc0xvZ2dlZEluJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
