@@ -37,7 +37,6 @@
         <entry>now</entry>
         <entry>e</entry>
         <entry>bn</entry>
-        <entry>wq</entry>
         <entry>redo</entry>
         <entry>ww</entry>
         <entry>ew</entry>
@@ -47,6 +46,7 @@
         <entry>W</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -98,11 +98,6 @@
         <mark key="^" line="52" column="13" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/.editorconfig" timestamp="1589321426913">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
       <file name="C:/xampp/htdocs/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1589406198585">
         <mark key="[" line="69" column="28" />
         <mark key="]" line="69" column="33" />
@@ -145,6 +140,12 @@
         <mark key="]" line="20" column="52" />
         <mark key="." line="20" column="51" />
         <mark key="^" line="20" column="52" />
+      </file>
+      <file name="//wsl$/Ubuntu/home/dslaugh/test.txt" timestamp="1589482921929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="13" />
       </file>
       <file name="C:/xampp/htdocs/canvas4acause/resources/views/auth/login.blade.php" timestamp="1589409401780">
         <mark key="[" line="38" column="18" />
@@ -353,7 +354,7 @@
         <text encoding="base64">ICAgICAgICB7eyBjb25maWcoJ2FwcC5uYW1lJywgJ0M0QUMnKSB9fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
