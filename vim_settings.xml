@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>m</entry>
         <entry>mkjlj</entry>
         <entry>onSubmit</entry>
         <entry>kind-of</entry>
@@ -25,13 +24,13 @@
         <entry>token</entry>
         <entry>store</entry>
         <entry>destr</entry>
+        <entry>doctrin</entry>
       </history-search>
       <history-cmd>
         <entry>e index.js</entry>
         <entry>bp</entry>
         <entry>b#</entry>
         <entry>vs react/build_your_own/index.js</entry>
-        <entry>q</entry>
         <entry>help delmarks</entry>
         <entry>delmarks M</entry>
         <entry>q!</entry>
@@ -46,6 +45,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>noh</entry>
         <entry>W</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -86,33 +86,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/resources/views/contacts/edit.blade.php" timestamp="1589390486173">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="13" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="C:/xampp/htdocs/c4ac/.editorconfig" timestamp="1589318224568">
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/.env" timestamp="1589321147752">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="13" />
-        <mark key="^" line="11" column="14" />
-      </file>
-      <file name="C:/Homestead/Homestead.yaml" timestamp="1589310004780">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="15" />
-        <mark key="^" line="4" column="16" />
-      </file>
       <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/.editorconfig" timestamp="1589321426913">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
+      </file>
+      <file name="C:/xampp/htdocs/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1589406198585">
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="33" />
+        <mark key="." line="69" column="32" />
+        <mark key="^" line="69" column="33" />
       </file>
       <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/app/Http/Controllers/ContactController.php" timestamp="1589390136605">
         <mark key="'" line="104" column="71" />
@@ -121,58 +104,29 @@
         <mark key="." line="118" column="71" />
         <mark key="^" line="118" column="72" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server.js" timestamp="1589236942569">
-        <mark key="[" line="34" column="56" />
-        <mark key="]" line="34" column="61" />
-        <mark key="^" line="34" column="61" />
-        <mark key="." line="34" column="60" />
-      </file>
       <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/resources/views/base.blade.php" timestamp="1589322044152">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="56" />
         <mark key="^" line="11" column="56" />
         <mark key="." line="11" column="55" />
       </file>
-      <file name="C:/bitbucket_repos/c4ac/server/models/user.model.js" timestamp="1589237171643">
-        <mark key="[" line="61" column="29" />
-        <mark key="]" line="61" column="58" />
-        <mark key="." line="61" column="57" />
-        <mark key="^" line="61" column="58" />
+      <file name="C:/xampp/htdocs/canvas4acause/routes/web.php" timestamp="1589410083345">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="34" />
+        <mark key="^" line="23" column="34" />
+        <mark key="." line="23" column="33" />
       </file>
-      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/app/Contact.php" timestamp="1589321464488">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="4" />
+      <file name="C:/xampp/htdocs/canvas4acause/resources/views/auth/login.blade.php" timestamp="1589409401780">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="37" column="20" />
       </file>
-      <file name="C:/xampp/htdocs/config/app.php" timestamp="1589319047811">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="34" />
-        <mark key="^" line="15" column="35" />
-      </file>
-      <file name="C:/xampp/htdocs/.env" timestamp="1589319091318">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/package.json" timestamp="1589320808440">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Homestead/Homestead.yaml" timestamp="1589315300731">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="27" />
-        <mark key="^" line="21" column="28" />
-      </file>
-      <file name="C:/bitbucket_repos/c4ac/server/routes/login.routes.js" timestamp="1589237071299">
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="34" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="38" column="34" />
+      <file name="C:/xampp/htdocs/canvas4acause/resources/views/about_us.blade.php" timestamp="1589410149579">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="4" column="11" />
+        <mark key="^" line="4" column="11" />
+        <mark key="." line="4" column="10" />
       </file>
       <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/routes/web.php" timestamp="1589321575120">
         <mark key="[" line="17" column="3" />
@@ -187,22 +141,63 @@
         <mark key="^" line="10" column="4" />
         <mark key="." line="52" column="0" />
       </file>
+      <file name="C:/xampp/htdocs/canvas4acause/config/app.php" timestamp="1589407417149">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="34" />
+        <mark key="^" line="15" column="35" />
+      </file>
+      <file name="C:/xampp/htdocs/canvas4acause/resources/views/welcome.blade.php" timestamp="1589407712815">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="23" />
+        <mark key="^" line="3" column="24" />
+      </file>
+      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/resources/views/contacts/edit.blade.php" timestamp="1589390486173">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="52" column="13" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/app/Contact.php" timestamp="1589321464488">
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="4" />
+      </file>
+      <file name="C:/xampp/htdocs/canvas4acause/resources/views/auth/register.blade.php" timestamp="1589404769241">
+        <mark key="[" line="92" column="46" />
+        <mark key="]" line="93" column="16" />
+        <mark key="." line="93" column="15" />
+        <mark key="^" line="93" column="16" />
+      </file>
+      <file name="C:/xampp/htdocs/canvas4acause/database/migrations/2020_05_13_212622_alter_users_table.php" timestamp="1589405952024">
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="52" />
+        <mark key="." line="20" column="51" />
+        <mark key="^" line="20" column="52" />
+      </file>
+      <file name="C:/xampp/htdocs/canvas4acause/app/User.php" timestamp="1589404436488">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="15" />
+      </file>
       <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/resources/views/contacts/index.blade.php" timestamp="1589390815829">
         <mark key="[" line="29" column="27" />
         <mark key="]" line="29" column="41" />
         <mark key="." line="29" column="40" />
         <mark key="^" line="29" column="41" />
       </file>
-      <file name="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/database/migrations/2020_05_12_220701_create_contacts_table.php" timestamp="1589321366224">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="23" column="35" />
+      <file name="C:/xampp/htdocs/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1589410600690">
+        <mark key="'" line="37" column="61" />
+        <mark key="[" line="23" column="61" />
+        <mark key="]" line="23" column="94" />
+        <mark key="." line="23" column="93" />
+        <mark key="^" line="23" column="94" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6067" column="60" filename="C:/github_repos/chess_visualizer/package-lock.json" />
-      <jump line="6202" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="6205" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="6207" column="60" filename="C:/github_repos/chess_visualizer/package-lock.json" />
       <jump line="6629" column="9" filename="C:/github_repos/chess_visualizer/package-lock.json" />
@@ -301,48 +296,50 @@
       <jump line="18" column="0" filename="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/resources/views/contacts/create.blade.php" />
       <jump line="11" column="4" filename="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/resources/views/contacts/create.blade.php" />
       <jump line="104" column="71" filename="C:/php_sandbox/laravel_tuts/laravel-7-crud-app/app/Http/Controllers/ContactController.php" />
+      <jump line="24" column="37" filename="C:/xampp/htdocs/canvas4acause/resources/views/layouts/app.blade.php" />
+      <jump line="37" column="61" filename="C:/xampp/htdocs/canvas4acause/resources/views/layouts/app.blade.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>destr</text>
+        <text>doctrin</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8Zm9ybSBhY3Rpb249Int7IHJvdXRlKCdjb250YWN0cy5kZXN0cm95JywgJGNvbnRhY3QtPmlkKSB9fSIgbWV0aG9kPSJwb3N0Ij4KICAgICAgICAgICAgICAgICAgQGNzcmYKICAgICAgICAgICAgICAgICAgQG1ldGhvZCgnREVMRVRFJykKICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kYW5nZXIiIHR5cGU9InN1Ym1pdCI+RGVsZXRlPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Zvcm0+CiAgICAgICAgICAgICAgPC90ZD4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">PGEgY2xhc3M9Im5hdi1saW5rIiBocmVmPSIjIj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnY29udGFjdHMuZWRpdCcsICRjb250YWN0LT5pZCkgfX0iIGNsYXNzPSJidG4gYnRuLWluZm8iPgogICAgICAgICAgICAgICAgICBFZGl0CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">IFBpY2sgY29sb3IgZnJvbSB3ZWIgcGFnZQpTZWxlY3RlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxmb3JtIGFjdGlvbj0ie3sgcm91dGUoJ2NvbnRhY3RzLmVkaXQnLCAkY29udGFjdC0+aWQpIH19IiBtZXRob2Q9InBvc3QiPgogICAgICAgICAgICAgICAgICBAY3NyZgogICAgICAgICAgICAgICAgICBAbWV0aG9kKCdERUxFVEUnKQogICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRhbmdlciIgdHlwZT0ic3VibWl0Ij5EZWxldGU8L2J1dHRvbj4KICAgICAgICAgICAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICB7eyBjb25maWcoJ2FwcC5uYW1lJywgJ0M0QUMnKSB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PD9waHAK</text>
+        <text encoding="base64">ICAgICAgICB7eyBjb25maWcoJ2FwcC5uYW1lJywgJ0M0QUMnKSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgPGltZyBzcmM9Int7IGFzc2V0KCdpbWFnZXMvQzRBQ19sb2dvLnBuZycpIH19IiB3aWR0aD0iMTAwcHg7IiAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgQGlmKHNlc3Npb24oKS0+Z2V0KCdzdWNjZXNzJykpCiAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiPgogICAgICAgIHt7IHNlc3Npb24oKS0+Z2V0KCdzdWNjZXNzJykgfX0KICAgICAgPC9kaXY+CiAgICBAZW5kaWYKICA8L2Rpdj4K</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9Int7IHN0cl9yZXBsYWNlKCdfJywgJy0nLCBhcHAoKS0+Z2V0TG9jYWxlKCkpIH19Ij4KICAgIDxoZWFkPgogICAgICAgIDxtZXRhIGNoYXJzZXQ9InV0Zi04Ij4KICAgICAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgoKICAgICAgICA8dGl0bGU+TGFyYXZlbDwvdGl0bGU+CgogICAgICAgIDwhLS0gRm9udHMgLS0+CiAgICAgICAgPGxpbmsgaHJlZj0iaHR0cHM6Ly9mb250cy5nb29nbGVhcGlzLmNvbS9jc3M/ZmFtaWx5PU51bml0bzoyMDAsNjAwIiByZWw9InN0eWxlc2hlZXQiPgoKICAgICAgICA8IS0tIFN0eWxlcyAtLT4KICAgICAgICA8c3R5bGU+CiAgICAgICAgICAgIGh0bWwsIGJvZHkgewogICAgICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsKICAgICAgICAgICAgICAgIGNvbG9yOiAjNjM2YjZmOwogICAgICAgICAgICAgICAgZm9udC1mYW1pbHk6ICdOdW5pdG8nLCBzYW5zLXNlcmlmOwogICAgICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDIwMDsKICAgICAgICAgICAgICAgIGhlaWdodDogMTAwdmg7CiAgICAgICAgICAgICAgICBtYXJnaW46IDA7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC5mdWxsLWhlaWdodCB7CiAgICAgICAgICAgICAgICBoZWlnaHQ6IDEwMHZoOwogICAgICAgICAgICB9CgogICAgICAgICAgICAuZmxleC1jZW50ZXIgewogICAgICAgICAgICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAgICAgICAgICAgIGRpc3BsYXk6IGZsZXg7CiAgICAgICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLnBvc2l0aW9uLXJlZiB7CiAgICAgICAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC50b3AtcmlnaHQgewogICAgICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICAgICAgcmlnaHQ6IDEwcHg7CiAgICAgICAgICAgICAgICB0b3A6IDE4cHg7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC5jb250ZW50IHsKICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLnRpdGxlIHsKICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogODRweDsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgLmxpbmtzID4gYSB7CiAgICAgICAgICAgICAgICBjb2xvcjogIzYzNmI2ZjsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDAgMjVweDsKICAgICAgICAgICAgICAgIGZvbnQtc2l6ZTogMTNweDsKICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiA2MDA7CiAgICAgICAgICAgICAgICBsZXR0ZXItc3BhY2luZzogLjFyZW07CiAgICAgICAgICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7CiAgICAgICAgICAgICAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICAubS1iLW1kIHsKICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICAgICAgICAgIH0KICAgICAgICA8L3N0eWxlPgogICAgPC9oZWFkPgogICAgPGJvZHk+CiAgICAgICAgPGRpdiBjbGFzcz0iZmxleC1jZW50ZXIgcG9zaXRpb24tcmVmIGZ1bGwtaGVpZ2h0Ij4KICAgICAgICAgICAgQGlmIChSb3V0ZTo6aGFzKCdsb2dpbicpKQogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idG9wLXJpZ2h0IGxpbmtzIj4KICAgICAgICAgICAgICAgICAgICBAYXV0aAogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyB1cmwoJy9ob21lJykgfX0iPkhvbWU8L2E+CiAgICAgICAgICAgICAgICAgICAgQGVsc2UKICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ2xvZ2luJykgfX0iPkxvZ2luPC9hPgoKICAgICAgICAgICAgICAgICAgICAgICAgQGlmIChSb3V0ZTo6aGFzKCdyZWdpc3RlcicpKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0ie3sgcm91dGUoJ3JlZ2lzdGVyJykgfX0iPlJlZ2lzdGVyPC9hPgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICBAZW5kYXV0aAogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIEBlbmRpZgoKICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29udGVudCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aXRsZSBtLWItbWQiPgogICAgICAgICAgICAgICAgICAgIExhcmF2ZWwKICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImxpbmtzIj4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL2xhcmF2ZWwuY29tL2RvY3MiPkRvY3M8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9sYXJhY2FzdHMuY29tIj5MYXJhY2FzdHM8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9sYXJhdmVsLW5ld3MuY29tIj5OZXdzPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Imh0dHBzOi8vYmxvZy5sYXJhdmVsLmNvbSI+QmxvZzwvYT4KICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJodHRwczovL25vdmEubGFyYXZlbC5jb20iPk5vdmE8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9mb3JnZS5sYXJhdmVsLmNvbSI+Rm9yZ2U8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly92YXBvci5sYXJhdmVsLmNvbSI+VmFwb3I8L2E+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaHR0cHM6Ly9naXRodWIuY29tL2xhcmF2ZWwvbGFyYXZlbCI+R2l0SHViPC9hPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgQGlmKHNlc3Npb24oKS0+Z2V0KCdzdWNjZXNzJykpCiAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiPgogICAgICAgIHt7IHNlc3Npb24oKS0+Z2V0KCdzdWNjZXNzJykgfX0KICAgICAgPC9kaXY+CiAgICBAZW5kaWYKICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb2wtMTIiPgogICAgQGlmKHNlc3Npb24oKS0+Z2V0KCdzdWNjZXNzJykpCiAgICAgIDxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiPgogICAgICAgIHt7IHNlc3Npb24oKS0+Z2V0KCdzdWNjZXNzJykgfX0KICAgICAgPC9kaXY+CiAgICBAZW5kaWYKICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8YSBocmVmPSJ7eyByb3V0ZSgnY29udGFjdHMuZWRpdCcsICRjb250YWN0LT5pZCkgfX0iIGNsYXNzPSJidG4gYnRuLWluZm8iPgogICAgICAgICAgICAgICAgICBFZGl0CiAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgPC90ZD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -351,9 +348,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>destr</last-search>
+      <last-search>doctrin</last-search>
       <last-offset />
-      <last-pattern>destr</last-pattern>
+      <last-pattern>doctrin</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
