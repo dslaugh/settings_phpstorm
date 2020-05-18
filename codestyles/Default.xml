@@ -5,6 +5,9 @@
     </value>
   </option>
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_QUOTE_STYLE" value="None" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
