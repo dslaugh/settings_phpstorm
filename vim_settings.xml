@@ -163,11 +163,11 @@
         <mark key="." line="18" column="26" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/donate_now.blade.php" timestamp="1589819661164">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="22" />
-        <mark key="^" line="6" column="22" />
-        <mark key="." line="6" column="21" />
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/donate_now.blade.php" timestamp="1589820325232">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="15" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/CharityController.php" timestamp="1589817246024">
         <mark key="[" line="18" column="32" />
