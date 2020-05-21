@@ -86,6 +86,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1589925891509">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="36" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1589926273397">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="8" column="16" />
@@ -97,58 +103,6 @@
         <mark key="]" line="19" column="49" />
         <mark key="." line="19" column="48" />
         <mark key="^" line="19" column="49" />
-      </file>
-      <file name="/a.dummy" timestamp="1589925201539">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/User.php" timestamp="1589916968312">
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="25" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/LoginController.php" timestamp="1589910413399">
-        <mark key="[" line="28" column="50" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="56" />
-        <mark key="^" line="28" column="57" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/charities/charity_profile.blade.php" timestamp="1589925951509">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/index.blade.php" timestamp="1589915345823">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="5" column="47" />
-        <mark key="^" line="5" column="47" />
-        <mark key="." line="5" column="46" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/artist_profile.blade.php" timestamp="1589917317264">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Artist.php" timestamp="1589926730558">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/config/app.php" timestamp="1589907753296">
-        <mark key="[" line="15" column="39" />
-        <mark key="]" line="15" column="39" />
-        <mark key="." line="15" column="39" />
-        <mark key="^" line="15" column="39" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1589925891509">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="37" />
-        <mark key="^" line="27" column="37" />
-        <mark key="." line="27" column="36" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1589910518672">
         <mark key="'" line="30" column="26" />
@@ -163,16 +117,34 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="24" />
       </file>
+      <file name="/a.dummy" timestamp="1589925201539">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ArtistController.php" timestamp="1589925764782">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/app/User.php" timestamp="1589987730842">
+        <mark key="[" line="63" column="3" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="3" />
+        <mark key="^" line="64" column="4" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ArtistsController.php" timestamp="1589925717219">
         <mark key="[" line="15" column="5" />
         <mark key="]" line="16" column="22" />
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="22" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/LoginController.php" timestamp="1589910413399">
+        <mark key="[" line="28" column="50" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="56" />
+        <mark key="^" line="28" column="57" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1589910345475">
         <mark key="'" line="41" column="14" />
@@ -204,6 +176,34 @@
         <mark key="]" line="48" column="67" />
         <mark key="^" line="48" column="67" />
         <mark key="." line="48" column="66" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/charities/charity_profile.blade.php" timestamp="1589925951509">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/index.blade.php" timestamp="1589915345823">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/artist_profile.blade.php" timestamp="1589917317264">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/app/Artist.php" timestamp="1589926730558">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/config/app.php" timestamp="1589907753296">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="39" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -361,7 +361,7 @@
       <last-offset />
       <last-pattern>Join</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
