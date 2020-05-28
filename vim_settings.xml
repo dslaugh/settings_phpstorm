@@ -30,7 +30,6 @@
         <entry>vs react/build_your_own/index.js</entry>
         <entry>help delmarks</entry>
         <entry>delmarks M</entry>
-        <entry>q!</entry>
         <entry>now</entry>
         <entry>bn</entry>
         <entry>ww</entry>
@@ -47,6 +46,7 @@
         <entry>delm</entry>
         <entry>reg</entry>
         <entry>w</entry>
+        <entry>q!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -101,11 +101,11 @@
         <mark key="^" line="29" column="45" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Cause.php" timestamp="1590535107916">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/Cause.php" timestamp="1590535529587">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="^" line="12" column="2" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/profiles/edit.blade.php" timestamp="1590527987455">
         <mark key="'" line="37" column="28" />
@@ -369,7 +369,7 @@
         <text encoding="base64">ICAgIGRkKCR1c2VyLT5jYXVzZSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q!</text>
       </register>
     </registers>
   </component>
