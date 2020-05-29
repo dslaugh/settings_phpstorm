@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>col-3</entry>
-        <entry>col-</entry>
-        <entry>col-9</entry>
         <entry>Profile</entry>
         <entry>col-md</entry>
         <entry>bio</entry>
@@ -25,6 +22,9 @@
         <entry>newsletter</entry>
         <entry>%s</entry>
         <entry>artist</entry>
+        <entry>\/form</entry>
+        <entry>email</entry>
+        <entry>first_name</entry>
       </history-search>
       <history-cmd>
         <entry>vs react/build_your_own/index.js</entry>
@@ -39,13 +39,13 @@
         <entry>wq</entry>
         <entry>e</entry>
         <entry>ew</entry>
-        <entry>redo</entry>
         <entry>marks</entry>
         <entry>delm</entry>
         <entry>reg</entry>
         <entry>q!</entry>
-        <entry>noh</entry>
         <entry>qw</entry>
+        <entry>redo</entry>
+        <entry>noh</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -95,64 +95,48 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/login.blade.php" timestamp="1590620924261">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="28" />
-        <mark key="^" line="3" column="28" />
-        <mark key="." line="3" column="27" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/Providers/RouteServiceProvider.php" timestamp="1590782314944">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="23" column="26" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Cause.php" timestamp="1590614282026">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="24" column="20" />
-        <mark key="." line="27" column="0" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1590788210984">
+        <mark key="'" line="56" column="7" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/edit.blade.php" timestamp="1590615047963">
-        <mark key="'" line="111" column="66" />
-        <mark key="j" line="20" column="51" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="30" />
-        <mark key="^" line="135" column="32" />
-        <mark key="." line="116" column="56" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ProfileController.php" timestamp="1590788444505">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="27" column="34" />
+        <mark key="." line="92" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ProfileController.php" timestamp="1590697263575">
-        <mark key="'" line="69" column="18" />
-        <mark key="[" line="17" column="61" />
-        <mark key="]" line="17" column="65" />
-        <mark key="^" line="17" column="65" />
-        <mark key="." line="17" column="64" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/Profile.php" timestamp="1590786978944">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="18" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/causes/show.blade.php" timestamp="1590696489310">
-        <mark key="'" line="37" column="39" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="14" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="18" column="0" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/User.php" timestamp="1590787862384">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/causes/edit.blade.php" timestamp="1590615795269">
-        <mark key="'" line="192" column="25" />
-        <mark key="[" line="195" column="51" />
-        <mark key="]" line="195" column="62" />
-        <mark key="^" line="195" column="62" />
-        <mark key="." line="195" column="61" />
+      <file name="C:/bitbucket_repos/canvas4acause/database/migrations/2020_05_20_214033_create_profiles_table.php" timestamp="1590786891036">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="43" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Middleware/IsProfileOwner.php" timestamp="1590697219728">
-        <mark key="[" line="27" column="55" />
-        <mark key="]" line="27" column="57" />
-        <mark key="." line="27" column="56" />
-        <mark key="^" line="27" column="57" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/LoginController.php" timestamp="1590681871592">
-        <mark key="[" line="47" column="52" />
-        <mark key="]" line="47" column="53" />
-        <mark key="." line="47" column="52" />
-        <mark key="^" line="47" column="53" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/profiles/show.blade.php" timestamp="1590693710159">
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="27" />
-        <mark key="^" line="3" column="28" />
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/profiles/index.blade.php" timestamp="1590787450842">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/index.blade.php" timestamp="1590697444888">
         <mark key="[" line="3" column="23" />
@@ -172,76 +156,70 @@
         <mark key="." line="26" column="31" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/welcome.blade.php" timestamp="1590620801834">
+      <file name="C:/bitbucket_repos/canvas4acause/resources/sass/app.scss" timestamp="1590777973022">
+        <mark key="[" line="56" column="1" />
+        <mark key="]" line="61" column="28" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="61" column="27" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/welcome.blade.php" timestamp="1590781382441">
+        <mark key="'" line="7" column="24" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="35" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1590787382560">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="86" />
+        <mark key="." line="31" column="85" />
+        <mark key="^" line="31" column="86" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1590787736832">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="62" column="38" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="62" column="38" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1590769797870">
+        <mark key="'" line="70" column="82" />
+        <mark key="[" line="90" column="49" />
+        <mark key="]" line="90" column="53" />
+        <mark key="^" line="90" column="53" />
+        <mark key="." line="90" column="52" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/donate_now.blade.php" timestamp="1590769349386">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/database/migrations/2014_10_12_000000_create_users_table.php" timestamp="1590786147835">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" timestamp="1590783160426">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/about_us.blade.php" timestamp="1590769814699">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="28" />
+        <mark key="^" line="3" column="28" />
+        <mark key="." line="3" column="27" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/home.blade.php" timestamp="1590776758857">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1590694381965">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="58" />
-        <mark key="." line="28" column="57" />
-        <mark key="^" line="28" column="58" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/profiles/edit.blade.php" timestamp="1590694890893">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="76" column="74" />
-        <mark key="]" line="76" column="117" />
-        <mark key="." line="76" column="116" />
-        <mark key="^" line="76" column="117" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1590694618245">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="102" column="31" />
-        <mark key="^" line="106" column="59" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ArtistController.php" timestamp="1590697050975">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="132" column="20" />
-        <mark key="." line="132" column="19" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1590695923074">
-        <mark key="'" line="70" column="82" />
-        <mark key="[" line="63" column="78" />
-        <mark key="]" line="63" column="78" />
-        <mark key="^" line="63" column="58" />
-        <mark key="." line="63" column="78" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" timestamp="1590614478027">
-        <mark key="'" line="3" column="29" />
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="51" />
-        <mark key="^" line="151" column="33" />
-        <mark key="." line="7" column="51" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/show.blade.php" timestamp="1590696302359">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="31" column="8" />
-        <mark key="^" line="29" column="12" />
-        <mark key="." line="29" column="11" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="31" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="94" column="31" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="5" column="21" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="18" column="31" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="127" column="28" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="171" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="140" column="86" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="134" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="55" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
-      <jump line="151" column="32" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="168" column="41" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="14" column="73" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="35" column="68" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="56" column="70" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="76" column="67" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
-      <jump line="96" column="68" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
       <jump line="116" column="66" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
       <jump line="136" column="74" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
       <jump line="139" column="32" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
@@ -326,6 +304,22 @@
       <jump line="21" column="18" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/show.blade.php" />
       <jump line="22" column="23" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/show.blade.php" />
       <jump line="25" column="39" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/show.blade.php" />
+      <jump line="20" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/welcome.blade.php" />
+      <jump line="34" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/welcome.blade.php" />
+      <jump line="3" column="2" filename="C:/bitbucket_repos/canvas4acause/resources/views/home.blade.php" />
+      <jump line="0" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/home.blade.php" />
+      <jump line="10" column="24" filename="C:/bitbucket_repos/canvas4acause/resources/views/welcome.blade.php" />
+      <jump line="103" column="3" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
+      <jump line="57" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
+      <jump line="8" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
+      <jump line="65" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
+      <jump line="106" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
+      <jump line="117" column="0" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
+      <jump line="19" column="0" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ProfileController.php" />
+      <jump line="66" column="0" filename="C:/bitbucket_repos/canvas4acause/app/User.php" />
+      <jump line="62" column="6" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
+      <jump line="81" column="29" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
+      <jump line="56" column="7" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,43 +328,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmaXJzdF9uYW1lIiBjbGFzcz0iY29sLW1kLTQgY29sLWZvcm0tbGFiZWwgdGV4dC1tZC1yaWdodCI+CiAgICAgICAgICAgICAgICAgIHt7IF9fKCdGaXJzdCBOYW1lJykgfX0gPGkgY2xhc3M9InJlcXVpcmVkLWFzdGVyaXNrIGZhcyBmYS1hc3RlcmlzayI+PC9pPgogICAgICAgICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iZmlyc3RfbmFtZSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdmaXJzdF9uYW1lJykgaXMtaW52YWxpZCBAZW5kZXJyb3IiCiAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJmaXJzdF9uYW1lIiB2YWx1ZT0ie3sgb2xkKCdmaXJzdF9uYW1lJykgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD4KCiAgICAgICAgICAgICAgICAgIEBlcnJvcignZmlyc3RfbmFtZScpCiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnZhbGlkLWZlZWRiYWNrIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz57eyAkbWVzc2FnZSB9fTwvc3Ryb25nPgogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIEBlbmRlcnJvcgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Imxhc3RfbmFtZSIgY2xhc3M9ImNvbC1tZC00IGNvbC1mb3JtLWxhYmVsIHRleHQtbWQtcmlnaHQiPgogICAgICAgICAgICAgICAgICB7eyBfXygnTGFzdCBOYW1lJykgfX0gPGkgY2xhc3M9InJlcXVpcmVkLWFzdGVyaXNrIGZhcyBmYS1hc3RlcmlzayI+PC9pPgogICAgICAgICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0ibGFzdF9uYW1lIiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCBAZXJyb3IoJ2xhc3RfbmFtZScpIGlzLWludmFsaWQgQGVuZGVycm9yIgogICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0ibGFzdF9uYW1lIiB2YWx1ZT0ie3sgb2xkKCdsYXN0X25hbWUnKSB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPgoKICAgICAgICAgICAgICAgICAgQGVycm9yKCdsYXN0X25hbWUnKQogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW52YWxpZC1mZWVkYmFjayIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+e3sgJG1lc3NhZ2UgfX08L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICBAZW5kZXJyb3IKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgoK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICR1c2VyLT5maXJzdF9uYW1lID0gJGRhdGFbJ2ZpcnN0X25hbWUnXTsKICAgICR1c2VyLT5sYXN0X25hbWUgPSAkZGF0YVsnbGFzdF9uYW1lJ107Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>update</text>
+        <text>last_name</text>
       </register>
       <register name="/" type="4">
-        <text>artist</text>
+        <text>first_name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICR0aGlzLT5taWRkbGV3YXJlKCdhdXRoJyktPmV4Y2VwdChbCiAgICAgICdpbmRleCcsCiAgICAgICdzaG93JywKICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJsYXN0X25hbWUiIGNsYXNzPSJjb2wtNCBjb2wtZm9ybS1sYWJlbCB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAge3sgX18oJ0xhc3QgTmFtZScpIH19IDxpIGNsYXNzPSJyZXF1aXJlZC1hc3RlcmlzayBmYXMgZmEtYXN0ZXJpc2siPjwvaT4KICAgICAgICAgICAgICAgIDwvbGFiZWw+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTYiPgogICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9Imxhc3RfbmFtZSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdsYXN0X25hbWUnKSBpcy1pbnZhbGlkIEBlbmRlcnJvciIKICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Imxhc3RfbmFtZSIgdmFsdWU9Int7IG9sZCgnbGFzdF9uYW1lJykgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD4KCiAgICAgICAgICAgICAgICAgIEBlcnJvcignbGFzdF9uYW1lJykKICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImludmFsaWQtZmVlZGJhY2siIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPnt7ICRtZXNzYWdlIH19PC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgQGVuZGVycm9yCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICR1c2VyLT5maXJzdF9uYW1lID0gJGRhdGFbJ2ZpcnN0X25hbWUnXTsKICAgICR1c2VyLT5sYXN0X25hbWUgPSAkZGF0YVsnbGFzdF9uYW1lJ107Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRkKCR1c2VyRGF0YSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKCR1c2VyVHlwZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICBpZiAoJGRhdGFbJ3VzZXJfdHlwZSddID09PSAnYXJ0aXN0JykgewogICAgICAkYXJ0aXN0ID0gQXJ0aXN0OjpjcmVhdGUoWyd1c2VyX2lkJyA9PiAkdXNlci0+aWRdKTsKICAgICAgJHRoaXMtPnJlZGlyZWN0VG8gPSAnL2FydGlzdHMvJyAuICRhcnRpc3QtPmlkIC4gJy9lZGl0JzsKICAgIH0gZWxzZSBpZiAoJGRhdGFbJ3VzZXJfdHlwZSddID09PSAnY2F1c2UnKSB7CiAgICAgICRjYXVzZSA9IENhdXNlOjpjcmVhdGUoWyd1c2VyX2lkJyA9PiAkdXNlci0+aWRdKTsKICAgICAgJHRoaXMtPnJlZGlyZWN0VG8gPSAnL2NhdXNlcy8nIC4gJGNhdXNlLT5pZCAuICcvZWRpdCc7CiAgICB9CgogICAgcmV0dXJuICR1c2VyOwogICAgKi8K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBAaWYgKCRjYXVzZS0+cGhvbmUpCiAgICAgICAgICA8ZGl2Pnt7ICRjYXVzZS0+cGhvbmUgfX08L2Rpdj4KICAgICAgICBAZW5kaWYK</text>
+        <text encoding="base64">ICAgICdsYXN0X25hbWUnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbWcgY2xhc3M9InJvdW5kZWQgaW1nLWZsdWlkIiBzcmM9Ii9zdG9yYWdlL3t7ICRhcnRpc3QtPnByb2ZpbGVfaW1hZ2UgfX0iIC8+Cg==</text>
+        <text encoding="base64">ICAgICdmaXJzdF9uYW1lJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJjb250YWluZXIgcHktMyI+CiAgICBUaGlzIGlzIHRoZSBjYXVzZSBwcm9maWxlIHBhZ2UKICAgIAogICAgPGEgaHJlZj0iL2NhdXNlcy97eyAkY2F1c2UtPmlkIH19L2VkaXQiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPkVkaXQgUHJvZmlsZTwvYT4KICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIHJldHVybiBVc2VyOjpjcmVhdGUoJHVzZXJEYXRhKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkKFskdXNlclR5cGUsICRyZXF1ZXN0LT51c2VyXSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGQoWyR1c2VyVHlwZSwgJHJlcXVlc3QtPnVzZXJdKTsK</text>
+        <text encoding="base64">ICAgICAgJ2xhc3RfbmFtZScgPT4gJGRhdGFbJ2xhc3RfbmFtZSddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -379,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>artist</last-search>
+      <last-search>first_name</last-search>
       <last-offset />
-      <last-pattern>artist</last-pattern>
+      <last-pattern>first_name</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
