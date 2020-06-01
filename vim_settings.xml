@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Profile</entry>
         <entry>col-md</entry>
         <entry>bio</entry>
         <entry>edit</entry>
@@ -25,6 +24,7 @@
         <entry>\/form</entry>
         <entry>email</entry>
         <entry>first_name</entry>
+        <entry encoding="base64">XDxvcmdhbml6YXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vs react/build_your_own/index.js</entry>
@@ -101,11 +101,11 @@
         <mark key="^" line="30" column="34" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1590788210984">
-        <mark key="'" line="56" column="7" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1590788770267">
+        <mark key="'" line="58" column="7" />
+        <mark key="[" line="58" column="7" />
+        <mark key="]" line="58" column="57" />
+        <mark key="." line="58" column="57" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ProfileController.php" timestamp="1590788444505">
         <mark key="'" line="19" column="0" />
@@ -175,11 +175,11 @@
         <mark key="." line="31" column="85" />
         <mark key="^" line="31" column="86" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1590787736832">
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="62" column="38" />
-        <mark key="." line="62" column="37" />
-        <mark key="^" line="62" column="38" />
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1590788791408">
+        <mark key="[" line="59" column="31" />
+        <mark key="]" line="59" column="43" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="43" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1590769797870">
         <mark key="'" line="70" column="82" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="66" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
       <jump line="136" column="74" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
       <jump line="139" column="32" filename="C:/bitbucket_repos/canvas4acause/resources/views/causes/create.blade.php" />
       <jump line="60" column="86" filename="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" />
@@ -320,6 +319,7 @@
       <jump line="62" column="6" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
       <jump line="81" column="29" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
       <jump line="56" column="7" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
+      <jump line="58" column="7" filename="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,14 +327,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJmaXJzdF9uYW1lIiBjbGFzcz0iY29sLW1kLTQgY29sLWZvcm0tbGFiZWwgdGV4dC1tZC1yaWdodCI+CiAgICAgICAgICAgICAgICAgIHt7IF9fKCdGaXJzdCBOYW1lJykgfX0gPGkgY2xhc3M9InJlcXVpcmVkLWFzdGVyaXNrIGZhcyBmYS1hc3RlcmlzayI+PC9pPgogICAgICAgICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0iZmlyc3RfbmFtZSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdmaXJzdF9uYW1lJykgaXMtaW52YWxpZCBAZW5kZXJyb3IiCiAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lPSJmaXJzdF9uYW1lIiB2YWx1ZT0ie3sgb2xkKCdmaXJzdF9uYW1lJykgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD4KCiAgICAgICAgICAgICAgICAgIEBlcnJvcignZmlyc3RfbmFtZScpCiAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJpbnZhbGlkLWZlZWRiYWNrIiByb2xlPSJhbGVydCI+CiAgICAgICAgICAgICAgICAgICAgPHN0cm9uZz57eyAkbWVzc2FnZSB9fTwvc3Ryb25nPgogICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgIEBlbmRlcnJvcgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgcm93Ij4KICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Imxhc3RfbmFtZSIgY2xhc3M9ImNvbC1tZC00IGNvbC1mb3JtLWxhYmVsIHRleHQtbWQtcmlnaHQiPgogICAgICAgICAgICAgICAgICB7eyBfXygnTGFzdCBOYW1lJykgfX0gPGkgY2xhc3M9InJlcXVpcmVkLWFzdGVyaXNrIGZhcyBmYS1hc3RlcmlzayI+PC9pPgogICAgICAgICAgICAgICAgPC9sYWJlbD4KCiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgICAgICAgIDxpbnB1dCBpZD0ibGFzdF9uYW1lIiB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZvcm0tY29udHJvbCBAZXJyb3IoJ2xhc3RfbmFtZScpIGlzLWludmFsaWQgQGVuZGVycm9yIgogICAgICAgICAgICAgICAgICAgICAgICAgbmFtZT0ibGFzdF9uYW1lIiB2YWx1ZT0ie3sgb2xkKCdsYXN0X25hbWUnKSB9fSIKICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmVkPgoKICAgICAgICAgICAgICAgICAgQGVycm9yKCdsYXN0X25hbWUnKQogICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaW52YWxpZC1mZWVkYmFjayIgcm9sZT0iYWxlcnQiPgogICAgICAgICAgICAgICAgICAgIDxzdHJvbmc+e3sgJG1lc3NhZ2UgfX08L3N0cm9uZz4KICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICBAZW5kZXJyb3IKICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvZGl2PgoK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICR1c2VyLT5maXJzdF9uYW1lID0gJGRhdGFbJ2ZpcnN0X25hbWUnXTsKICAgICR1c2VyLT5sYXN0X25hbWUgPSAkZGF0YVsnbGFzdF9uYW1lJ107Cg==</text>
+      <register name="&quot;" type="4">
+        <text>last_name</text>
       </register>
       <register name="-" type="4">
         <text>last_name</text>
       </register>
       <register name="/" type="4">
-        <text>first_name</text>
+        <text encoding="base64">XDxvcmdhbml6YXRpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIHJvdyI+CiAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJsYXN0X25hbWUiIGNsYXNzPSJjb2wtNCBjb2wtZm9ybS1sYWJlbCB0ZXh0LXJpZ2h0Ij4KICAgICAgICAgICAgICAgICAge3sgX18oJ0xhc3QgTmFtZScpIH19IDxpIGNsYXNzPSJyZXF1aXJlZC1hc3RlcmlzayBmYXMgZmEtYXN0ZXJpc2siPjwvaT4KICAgICAgICAgICAgICAgIDwvbGFiZWw+CgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLTYiPgogICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9Imxhc3RfbmFtZSIgdHlwZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmb3JtLWNvbnRyb2wgQGVycm9yKCdsYXN0X25hbWUnKSBpcy1pbnZhbGlkIEBlbmRlcnJvciIKICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9Imxhc3RfbmFtZSIgdmFsdWU9Int7IG9sZCgnbGFzdF9uYW1lJykgfX0iCiAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD4KCiAgICAgICAgICAgICAgICAgIEBlcnJvcignbGFzdF9uYW1lJykKICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImludmFsaWQtZmVlZGJhY2siIHJvbGU9ImFsZXJ0Ij4KICAgICAgICAgICAgICAgICAgICA8c3Ryb25nPnt7ICRtZXNzYWdlIH19PC9zdHJvbmc+CiAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgQGVuZGVycm9yCiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4KCg==</text>
@@ -373,10 +373,10 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>first_name</last-search>
+      <last-search encoding="base64">XDxvcmdhbml6YXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>first_name</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxvcmdhbml6YXRpb25cPg==</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
