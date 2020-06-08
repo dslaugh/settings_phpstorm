@@ -95,6 +95,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1591047684632">
+        <mark key="[" line="24" column="46" />
+        <mark key="]" line="24" column="55" />
+        <mark key="." line="24" column="54" />
+        <mark key="^" line="24" column="55" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Providers/RouteServiceProvider.php" timestamp="1591047644896">
         <mark key="[" line="37" column="15" />
         <mark key="]" line="37" column="24" />
@@ -119,6 +125,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="8" />
       </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1591132816125">
+        <mark key="[" line="160" column="33" />
+        <mark key="]" line="160" column="39" />
+        <mark key="^" line="160" column="39" />
+        <mark key="." line="160" column="38" />
+      </file>
       <file name="/a.dummy" timestamp="1591046591112">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="14" />
@@ -129,6 +141,18 @@
         <mark key="]" line="32" column="6" />
         <mark key="." line="32" column="6" />
         <mark key="^" line="32" column="6" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/database/migrations/2020_06_01_210334_create_suggestion_types_table.php" timestamp="1591046431359">
+        <mark key="[" line="24" column="6" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="6" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/emails/registration/registration_info.blade.php" timestamp="1591135486606">
+        <mark key="[" line="0" column="31" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="31" />
+        <mark key="^" line="0" column="32" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/thank_you.blade.php" timestamp="1591048520338">
         <mark key="[" line="6" column="0" />
@@ -153,48 +177,18 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="44" column="57" />
       </file>
+      <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1591284943502">
+        <mark key="'" line="92" column="6" />
+        <mark key="[" line="26" column="69" />
+        <mark key="]" line="26" column="70" />
+        <mark key="." line="26" column="70" />
+        <mark key="^" line="26" column="71" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/database/migrations/2020_06_01_210344_create_suggestions_table.php" timestamp="1591046817551">
         <mark key="[" line="18" column="22" />
         <mark key="]" line="18" column="22" />
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="57" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/app/Suggestion.php" timestamp="1591046830614">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="13" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1591047684632">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="55" />
-        <mark key="." line="24" column="54" />
-        <mark key="^" line="24" column="55" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1591132816125">
-        <mark key="[" line="160" column="33" />
-        <mark key="]" line="160" column="39" />
-        <mark key="^" line="160" column="39" />
-        <mark key="." line="160" column="38" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/database/migrations/2020_06_01_210334_create_suggestion_types_table.php" timestamp="1591046431359">
-        <mark key="[" line="24" column="6" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="6" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/emails/registration/registration_info.blade.php" timestamp="1591135486606">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="0" column="32" />
-        <mark key="." line="0" column="31" />
-        <mark key="^" line="0" column="32" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1591131633405">
-        <mark key="'" line="92" column="6" />
-        <mark key="[" line="58" column="19" />
-        <mark key="]" line="58" column="43" />
-        <mark key="." line="58" column="42" />
-        <mark key="^" line="58" column="43" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/artists/create.blade.php" timestamp="1591043690918">
         <mark key="'" line="21" column="64" />
@@ -212,6 +206,12 @@
         <mark key="]" line="0" column="58" />
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="57" />
+      </file>
+      <file name="C:/bitbucket_repos/canvas4acause/app/Suggestion.php" timestamp="1591046830614">
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="14" />
       </file>
     </filemarks>
     <jumps>
