@@ -100,24 +100,20 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="C:/github_repos/sandbox/docker/mysql/README.txt" timestamp="1591735497207" />
       <file name="C:/bitbucket_repos/canvas4acause/routes/web.php" timestamp="1591632576945">
         <mark key="[" line="28" column="42" />
         <mark key="]" line="28" column="47" />
         <mark key="." line="28" column="46" />
         <mark key="^" line="28" column="47" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.properties" timestamp="1591743310859">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/RegisterController.php" timestamp="1591629210513">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="106" column="7" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/emails/registration/test.blade.php" timestamp="1591130298611">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="8" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/auth/register.blade.php" timestamp="1591132816125">
         <mark key="[" line="160" column="33" />
