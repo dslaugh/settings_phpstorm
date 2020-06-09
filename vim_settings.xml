@@ -34,7 +34,6 @@
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>e</entry>
         <entry>ew</entry>
         <entry>marks</entry>
@@ -47,6 +46,7 @@
         <entry>noh</entry>
         <entry>redo</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,6 +107,12 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="8" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/src/app/welcome/welcome.component.ts" timestamp="1591651245081">
+        <mark key="[" line="16" column="50" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="27" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/ProfileController.php" timestamp="1591632605512">
         <mark key="'" line="59" column="4" />
         <mark key="[" line="93" column="0" />
@@ -130,12 +136,6 @@
         <mark key="]" line="20" column="54" />
         <mark key="." line="20" column="53" />
         <mark key="^" line="20" column="54" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/.env" timestamp="1591128392163">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
-        <mark key="^" line="31" column="25" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/LoginController.php" timestamp="1591131785470">
         <mark key="[" line="43" column="0" />
@@ -196,16 +196,18 @@
         <mark key="." line="15" column="6" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="C:/bitbucket_repos/c4ac/server/config/db.config.js" timestamp="1591645206379">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="22" />
+      </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/views/layouts/app.blade.php" timestamp="1591284943502">
         <mark key="'" line="92" column="6" />
         <mark key="[" line="26" column="69" />
         <mark key="]" line="26" column="70" />
         <mark key="." line="26" column="70" />
         <mark key="^" line="26" column="71" />
-      </file>
-      <file name="C:/bitbucket_repos/canvas4acause/resources/views/about_us.blade.php" timestamp="1591107111489">
-        <mark key="'" line="106" column="0" />
-        <mark key="^" line="148" column="12" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/resources/emails/registration/test.blade.php" timestamp="1591128530347">
         <mark key="[" line="0" column="0" />
@@ -322,11 +324,11 @@
       <register name="a" type="2">
         <text encoding="base64">ICA8dHI+CiAgICA8dGQ+PC90ZD4KICAgIDx0ZD57eyAkZGF0YVsnJ10gfX08L3RkPgogIDwvdHI+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEFkZCBhIHBvbGljeSB0byByZXN0cmljdCBhY2Nlc3MK</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
         <text>__con</text>
@@ -362,7 +364,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
