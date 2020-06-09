@@ -45,8 +45,8 @@
         <entry>earlier 1m</entry>
         <entry>noh</entry>
         <entry>redo</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -173,12 +173,6 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="C:/bitbucket_repos/canvas4acause/database/migrations/2020_05_20_214033_create_profiles_table.php" timestamp="1591129946925">
-        <mark key="[" line="20" column="42" />
-        <mark key="]" line="20" column="54" />
-        <mark key="." line="20" column="53" />
-        <mark key="^" line="20" column="54" />
-      </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/Auth/LoginController.php" timestamp="1591131785470">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -203,6 +197,12 @@
         <mark key="]" line="12" column="15" />
         <mark key="." line="12" column="14" />
         <mark key="^" line="12" column="15" />
+      </file>
+      <file name="//wsl$/Ubuntu/home/dslaugh/projects/canvas4acause/app/Http/Controllers/CauseController.php" timestamp="1591742077722">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+        <mark key="." line="15" column="43" />
       </file>
       <file name="C:/bitbucket_repos/canvas4acause/app/Http/Controllers/CauseController.php" timestamp="1591632810871">
         <mark key="[" line="15" column="0" />
@@ -359,7 +359,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
