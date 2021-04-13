@@ -1,8 +1,12 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="dev-sentinel-php7.mic.sentryds.com" id="8981cc53-a69d-41ca-823a-eb0457b658e6" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh" />
-      <sshConfig host="dev-sentinel-php7.mic.sentryds.com" id="cc0e4db3-e409-4c23-9c95-a84ac112636f" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev-sentinel-php7.mic.sentryds.com" id="8981cc53-a69d-41ca-823a-eb0457b658e6" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh">
+        <option name="customName" value="sentinel-php7" />
+      </sshConfig>
+      <sshConfig host="dev-sentinel-php7.mic.sentryds.com" id="cc0e4db3-e409-4c23-9c95-a84ac112636f" keyPath="C:\Users\David\.ssh\id_rsa" port="22" customName="sentinel-php7" nameFormat="CUSTOM" username="dslaugh">
+        <option name="customName" value="sentinel-php7" />
+      </sshConfig>
     </configs>
   </component>
 </application>
